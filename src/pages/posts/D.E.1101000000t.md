@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: D.E. 11 01 000 111 – Art der Anmeldung
 pubDate: '2023-09-08T20:44:16'
 author: Astro Learner
