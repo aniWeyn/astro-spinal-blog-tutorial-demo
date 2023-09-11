@@ -78,3 +78,48 @@ term
 H~2~O 
 ---
 X^2^ 
+
+---
+> :warning: **Warning:** Do not push the big red button.
+
+> :memo: **Note:** Sunrises are beautiful.
+
+> :bulb: **Tip:** Remember to appreciate the little things in life.
+---
+
+
+    Copyright (©) — &copy;
+    Registered trademark (®) — &reg;
+    Trademark (™) — &trade;
+    Euro (€) — &euro;
+    Left arrow (←) — &larr;
+    Up arrow (↑) — &uarr;
+    Right arrow (→) — &rarr;
+    Down arrow (↓) — &darr;
+    Degree (°) — &#176;
+    Pi (π) — &#960;
+
+
+---
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| Paragraph   | First paragraph. <br><br> Second paragraph. |
+
+---
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
+
+---
+
+#### Table of Contents
+
+- [Underline](#underline)
+- [Indent](#indent)
+- [Center](#center)
+- [Color](#color)
+
