@@ -14,7 +14,7 @@ tags: ["astro", "blogging", "learning in public"]
 
 Published on: 2023-09-11
 
-**EX:** Ausfuhr oder Wiederausfuhr von Gütern außerhalb des Zollgebiets der Union
+**EX:** Ausfuhr oder Wiederausfuhr von Gütern außerhalb des Zollgebiets der Union  
 **CO:** Handel von Unionsgütern mit den umsatzsteuerrechtlichen Sondergebieten wie:
 - Zypern (Nordzypern): CY
 - Spanien (Kanarische Inseln): ES
