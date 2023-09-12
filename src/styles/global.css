@@ -1,9 +1,53 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400");
+@import url("https://fonts.googleapis.com/css?family=Space+Grotesk:400");
+
+:root {
+  /* DECORATIVE TYPOGRAPHY */
+  /* headers*/
+  --decorative-header-font-family: Space Grotesk;
+  --decorative-header-font-weight: 400;
+  --decorative-header-line-height: 51px;
+
+  /* font variables */
+  --base-size: 1rem;
+  --scale: 1.125; /*https://typescale.com/, scale: minor second*/
+  --h5: calc(var(--base-size) * var(--scale));
+  --h4: calc(var(--h5) * var(--scale));
+  --h3: calc(var(--h4) * var(--scale));
+  --h2: calc(var(--h3) * var(--scale));
+  --h1: calc(var(--h2) * var(--scale));
+  --text-small: calc(var(--base-size) / var(--scale));
+
+  /* Proteria Colors */
+  --primary-red: #ff3e3e;
+  --primary-blue: #7e9cff;
+  --primary-blue-dark: #1740ce;
+  --secondary-red: #ff6565;
+  --secondary-blue: #98b0ff;
+  --secondary-blue-dark: #4566d8;
+  --tertiary-red: #ffb2b2;
+  --tertiary-blue: #a2b3eb;
+  --tertiary-blue-dark: #7e9cff;
+  --ui-black: #000000;
+  --ui-grey: #848484;
+  --ui-grey-dark: #CCCCCC;
+  --ui-components: #f7f7f7;
+  --ui-font-base: #474747;
+
+  /* Transitions */
+  --transition-time: 2s;
+}
+
 html {
-  background-color: white;
-  font-family: sans-serif;
+  font-size: 100%;
+  background: white;
+  color: var(--ui-font-base);
+  transition: all var(--transition-time) ease-out;
 }
 
 body {
+  font-family: "Open Sans", sans-serif;
+  font-size: var(--base-size);
   margin: 0 auto;
   width: 100%;
   max-width: 80ch;
@@ -15,10 +59,51 @@ body {
   box-sizing: border-box;
 }
 
-h1 {
-  margin: 1rem 0;
-  font-size: 2.5rem;
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Open Sans", sans-serif;
+  margin: 1.38rem 0 1.38rem;
+  font-weight: 600;
+  line-height: 1.4;
 }
+
+.title {
+  font-size: xxx-large;
+  font-family: var(--decorative-header-font-family), sans-serif;
+}
+
+h2 {
+  font-size: var(--h2);
+}
+
+h3 {
+  font-size: var(--h3);
+}
+
+h4 {
+  font-size: var(--h4);
+}
+
+h5 {
+  font-size: var(--h5);
+}
+
+small,
+.text_small {
+  font-size: var(--text-small);
+}
+
+a {
+  color: var(--ui-font-base);
+  transition: all var(--transition-time) ease-out;
+}
+
+  a:hover {
+      color: var(--secondary-blue-dark);
+  }
 
 /* nav styles */
 
@@ -83,10 +168,21 @@ h1 {
 }
 
 html.dark {
-  background-color: #0d0950;
+  background-color: var(--ui-black);
   color: #fff;
 }
 
-.dark .nav-links a {
+.dark a {
   color: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: var(--ui-black);
+    color: #fff;
+  }
+  
+  a {
+    color: #fff;
+  }
 }
