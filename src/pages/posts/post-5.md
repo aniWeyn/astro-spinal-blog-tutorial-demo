@@ -5,14 +5,12 @@ pubDate: 2023-09-11
 description: "Explanation of D.E. 11 01 000 000 Art der Anmeldung"
 author: "Anja"
 image:
-  url: "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
-  alt: "The Astro logo with the word One."
+  url: ""
+  alt: ""
 tags: ["astro", "blogging", "learning in public"]
 ---
 
 # D.E. 11 01 000 000 – Art der Anmeldung
-
-Published on: 2023-09-11
 
 **EX:** Ausfuhr oder Wiederausfuhr von Gütern außerhalb des Zollgebiets der Union  
 **CO:** Handel von Unionsgütern mit den umsatzsteuerrechtlichen Sondergebieten wie:

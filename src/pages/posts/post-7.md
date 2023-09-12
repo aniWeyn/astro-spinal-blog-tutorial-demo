@@ -5,8 +5,8 @@ pubDate: 2023-09-11
 description: "Markdown Cheat Sheet"
 author: "Anja"
 image:
-  url: "https://astro.build/assets/blog/astro-1-release-update/cover.jpeg"
-  alt: "The Astro logo with the word One."
+  url: "https://astro.build/assets/blog/astro-showcase/astro-showcase-screenshot.jpg"
+  alt: "Thumbnails of websites from the Astro Showcase site."
 tags: ["astro", "blogging", "learning in public"]
 ---
 
