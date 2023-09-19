@@ -9,5 +9,5 @@ Astro is Static Site Generator like Gridsome or Gatsby. It has very simple sourc
 
 ## Running the Static Site Generator
 
-'npm run dev'
-'npm run deploy'
+`npm run dev`
+`npm run deploy`
