@@ -5,6 +5,7 @@ pubDate: '2023-09-20T12:21:30'
 description: ''
 author: Anja
 image: ''
+tags: ["astro", "blogging", "learning in public"]
 ---
 
 Es ist grundsätzlich die EORI-Nummer des Beförderers anzugeben.

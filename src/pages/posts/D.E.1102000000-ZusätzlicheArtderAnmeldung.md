@@ -5,6 +5,7 @@ pubDate: '2023-09-20T12:25:17'
 description: ''
 author: Anja
 image: ''
+tags: ["astro", "blogging", "learning in public"]
 ---
 
 **D.E. 11 02 000 000 – Zusätzliche Art der Anmeldung**

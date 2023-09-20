@@ -5,6 +5,7 @@ pubDate: '2023-09-20T12:24:38'
 description: ''
 author: Anja
 image: ''
+tags: ["astro", "blogging", "learning in public"]
 ---
 
 Mittels des Kennzeichens „Sicherheit“ ist verpflichtend anzumelden, ob die Ausfuhranmeldung alle sicherheitsrelevanten Daten enthält:„0“ - Ausfuhranmeldung enthält **nicht** die sicherheitsrelevanten Daten

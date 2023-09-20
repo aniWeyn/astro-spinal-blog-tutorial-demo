@@ -5,6 +5,7 @@ pubDate: '2023-09-20T12:19:51'
 description: ''
 author: Anja
 image: ''
+tags: ["astro", "blogging", "learning in public"]
 ---
 
 Bei Verfahrenscode 10 00 (endgültige Ausfuhr) ist kein Vorpapier anzugeben.

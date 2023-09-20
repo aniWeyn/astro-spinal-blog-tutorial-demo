@@ -5,6 +5,7 @@ pubDate: '2023-09-20T12:23:49'
 description: ''
 author: Anja
 image: ''
+tags: ["astro", "blogging", "learning in public"]
 ---
 
 Es ist die Referenznummer und die Art des Transportdokuments anzugeben

@@ -5,6 +5,7 @@ pubDate: '2023-09-20T12:23:03'
 description: ''
 author: Anja
 image: ''
+tags: ["astro", "blogging", "learning in public"]
 ---
 
 Ersetzt die bisherige Bezugsnummer. Es ein innerbetriebliches Ordnungskriterium anzugeben, welches die z.B. **Rechnungsnummer oder Lieferscheinnummer** sein kann.
