@@ -1,15 +1,10 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: D.E. 12 01 000 000 - Vorpapier
+title: D.E. 14 06 000 000 - In Rechnung gestellter Gesamtbetrag
 pubDate: '2023-09-20T12:19:51'
-description: ''
 author: Anja
-image: ''
-tags: ["astro", "blogging", "learning in public"]
+tags:
+- Feldhilfe zur Ausfuhranmeldung
 ---
 
-Bei Verfahrenscode 10 00 (endgültige Ausfuhr) ist kein Vorpapier anzugeben.
-
-Bei ***rückwirkender Anmeldung*** Codierung 9DFE (zus. Art der Anmeldung (D.E. 1102 000 000): 1000 0000)
-
-Bei <strong><em>nachträglicher Anmeldung </em></strong>bei vorheriger unrichtiger Anmeldung: N830 + MRN (zus. Art der Anmeldung (D.E. 1102 000 000): 1100 0000)
+Anzugeben ist der für alle angemeldeten Waren in der angegebenen Rechnungswährung (Datenelement 14 05 000 000) in Rechnung gestellte Betrag. In Fällen kostenloser Lieferung ist „0“ einzutragen.Sind aufgrund der Lieferbedingung vom Verkäufer auch Beförderungs-, Versicherungs- oder andere Kosten zu tragen, sind diese bei der Angabe des in Rechnung gestellten Gesamtbetrags zu berücksichtigen.
