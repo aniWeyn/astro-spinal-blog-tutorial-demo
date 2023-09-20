@@ -5,6 +5,7 @@ pubDate: '2023-09-20T14:14:50'
 description: ''
 author: Anja Füger
 image: ''
+tags: ["Feldhilfe zur Ausfuhranmeldung"]
 ---
 
 Es ist stets das Land anzugeben, in dem die Waren gebraucht oder verbraucht, bearbeitet oder verarbeitet werden sollen. In den übrigen Fällen gilt als Bestimmungsland das letzte bekannte Land, in das die Waren verbracht werden sollen.

@@ -5,6 +5,7 @@ pubDate: '2023-09-20T14:13:45'
 description: ''
 author: Anja Füger
 image: ''
+tags: ["Feldhilfe zur Ausfuhranmeldung"]
 ---
 
 Hier ist der „tatsächliche Ausfuhrmitgliedstaat“ anzugeben, von dem aus die Waren ursprünglich im Hinblick auf ihre Ausfuhr versandt werden, ohne dass in transportbedingt zwischengeschalteten Mitgliedstaaten Handelsgeschäfte stattfinden, die den rechtlichen Status der Ware ändern.

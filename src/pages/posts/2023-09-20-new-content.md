@@ -5,8 +5,7 @@ pubDate: '2023-09-20T13:28:23'
 description: ''
 author: Anja Füger
 image: ''
-tags:
-- Feldhilfe zur Ausfuhranmeldung
+tags: ["Feldhilfe zur Ausfuhranmeldung"]
 ---
 
 Es ist codiert anzugeben, wie die Kosten für die Beförderung der Warensendung gezahlt wurden (Datenelement 14 02 038 000 - Zahlungsart).
