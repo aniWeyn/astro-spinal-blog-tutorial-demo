@@ -17,8 +17,8 @@ Spinal CMS is a third-party solution therefore you cannot access it from localho
 
 To login to Spinal CMS go to [Spinal CMS](https://app.spinalcms.com/login).
 
-## Running the Static Site Generator
-
+## Static Site Generator
+### Running the project
 ***
 Optional, but recommended steps:
 - Install Visual Studio Code or other tool for front-end development [Visual Studio Code](https://code.visualstudio.com/Download)
@@ -32,7 +32,26 @@ Optional, but recommended steps:
 3. On first use run `npm install`
 4. To start project use `npm run dev` 
 
-## Deploying the project
+### Editing
+#### Posts/Articles
+The content that is accessed by Spinal CMS lays in `src/pages/posts`. Do not delete the content of that folder.    
+
+The posts are saved as Markdown files. Use regular [Markdown](https://www.markdownguide.org/basic-syntax/#code) for edits.   
+
+On the top of every Markdown file there are metadata in [YAML](https://yaml.org/) format (human-friendly data serialization language for all programming languages).
+#### Tags
+Tags are taken from the Posts. 
+
+#### Styling 
+Global styles are laying in `src/styles/global.css`
+
+#### Layouts
+The Posts are using layouts from  `src/layouts/MarkdownPostLayout.astro` where Markdown is rendered in `<slot />` and metadata in HTML through `frontmatter`. 
+
+#### Components
+Footer or Theme icon is placed in `src/components`. Components can be imported to Layouts or Pages.
+
+### Deploying the project
 TBA
 
 `npm run deploy` 
