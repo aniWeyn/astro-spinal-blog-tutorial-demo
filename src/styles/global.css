@@ -98,7 +98,7 @@ small,
 
 a {
   color: var(--ui-font-base);
-  transition: all var(--transition-time) ease-out;
+  transition: color var(--transition-time) ease-out;
 }
 
   a:hover {
