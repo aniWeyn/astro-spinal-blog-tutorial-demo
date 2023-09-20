@@ -1,4 +1,5 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 title: D.E. 16 03 000 000 - Bestimmungsland
 pubDate: '2023-09-20T14:14:50'
 description: ''
