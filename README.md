@@ -39,8 +39,9 @@ The content that is accessed by Spinal CMS lays in `src/pages/posts`. Do not del
 The posts are saved as Markdown files. Use regular [Markdown](https://www.markdownguide.org/basic-syntax/#code) for edits.   
 
 On the top of every Markdown file there are metadata in [YAML](https://yaml.org/) format (human-friendly data serialization language for all programming languages).
-#### Tags
-Tags are taken from the Posts. 
+
+#### Tags/Authors etc
+Tags, authors or other data are created based on Metadata from the Posts.
 
 #### Styling 
 Global styles are laying in `src/styles/global.css`
