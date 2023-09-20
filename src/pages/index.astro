@@ -1,13 +1,15 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import BlogPost from "../components/BlogPost.astro";
+import Navigaation from "../components/Navigation.astro";
 import Footer from "../components/Footer.astro";
 import ThemeIcon from "../components/ThemeIcon.astro";
+
 const pageTitle = "Home Page";
 const allPosts = await Astro.glob("../pages/posts/*.md");
 ---
 <BaseLayout pageTitle={pageTitle}>
-  <h1 class="title">Proteria Help Fields <ThemeIcon /> </h1>
+  <h1 class="title">Proteria Help Fields</h1>
   <ul>
     {allPosts.map((post) => <BlogPost url={post.url} title={post.frontmatter.title}/>)}
   </ul>
