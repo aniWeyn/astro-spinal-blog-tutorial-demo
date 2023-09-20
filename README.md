@@ -28,9 +28,11 @@ Optional, but recommended steps:
 *** 
 
 1. Clone repository to Projects folder (you don't need to create a new folder)
-2. On first ise run `npm install`
-3. To start project use `npm run dev` 
+2. Open Terminal
+3. On first use run `npm install`
+4. To start project use `npm run dev` 
 
 ## Deploying the project
+TBA
 
 `npm run deploy` 
