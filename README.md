@@ -19,7 +19,17 @@ To login to Spinal CMS go to [Spinal CMS](https://app.spinalcms.com/login).
 
 ## Running the Static Site Generator
 
-`npm run dev`   
+***
+Optional, but recommended steps:
+- Install Visual Studio Code or other tool for front-end development [Visual Studio Code](https://code.visualstudio.com/Download)
+- Login to Visual Studio Code with your GitHub account if you would like to use build in Source Control 
+- Instal Astro extension for syntax & semantic highlighting, IntelliSense completions and other support
+- Open cloned project with Visual Studio Code, option "Open Folder..."
+*** 
+
+1. Clone repository to Projects folder (you don't need to create a new folder)
+2. On first ise run `npm install`
+3. To start project use `npm run dev` 
 
 ## Deploying the project
 
