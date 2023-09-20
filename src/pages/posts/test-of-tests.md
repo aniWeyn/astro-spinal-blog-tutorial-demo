@@ -5,6 +5,8 @@ pubDate:
 description: 
 author: Anja Füger
 image: 
+tags:
+- test
 ---
 
 Again test
