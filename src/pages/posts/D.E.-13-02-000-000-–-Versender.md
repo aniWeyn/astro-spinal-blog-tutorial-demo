@@ -7,6 +7,6 @@ author:
 image: ''
 ---
 
-Als Versender ist die Person anzugeben, die nach Maßgabe des Beförderungsvertrages versendet.Diese Angeabe ist nur dann **NICHT** erforderlich, wenn die Ausfuhranmeldung die weiteren Angaben der summarischen Ausgangsanmeldung nicht enthalten muss (Code „0“).
+Als Versender ist die Person anzugeben, die nach Maßgabe des Beförderungsvertrages versendet.Diese Angabe ist nur dann **NICHT** erforderlich, wenn die Ausfuhranmeldung angemeldet wurde mit:„0“ – Ausfuhranmeldung enthält nicht die sicherheitsrelevanten Daten
 
-Die Angabe ist erforderlich, **sofern er von allen anderen Beteiligten abwicht und dem fachlichen Ersteller der Ausfuhranmeldung bekannt ist**.
+***Die Angabe ist erforderlich, sofern er von allen anderen Beteiligten abweicht und dem fachlichen Ersteller der Ausfuhranmeldung bekannt ist.***
