@@ -8,3 +8,5 @@ image: ''
 ---
 
 Hier sind Angaben zum Ursprungsland der Waren zu machen.
+
+Ist das Ursprungsland bei der Abgabe der Ausfuhranmeldung nicht bekannt, kann das vermutete Ursprungsland oder hilfsweise das Herkunfts-/Versendungsland angegeben werden
