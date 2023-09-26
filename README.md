@@ -55,6 +55,9 @@ The Posts are using layouts from  `src/layouts/MarkdownPostLayout.astro` where M
 Footer or Theme icon is placed in `src/components`. Components can be imported to Layouts or Pages.
 
 ### Deploying the project
-TBA
+Deployment happens through GitHub actions to Azure Statis Sites on successful push to the repository.   
 
+See deployment tutorial here: [Astro Deployment to Microsoft Azure](https://docs.astro.build/en/guides/deploy/microsoft-azure/)
+
+If for some reason you want to deploy site on your machine, use command:   
 `npm run deploy` 
