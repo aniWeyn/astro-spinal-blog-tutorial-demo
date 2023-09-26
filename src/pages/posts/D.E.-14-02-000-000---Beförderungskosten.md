@@ -1,4 +1,5 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 title: D.E. 14 02 000 000 - Beförderungskosten
 pubDate: '2023-09-20T13:28:23'
 description: ''
