@@ -1,3 +1,5 @@
+[![Azure Static Web Apps CI/CD](https://github.com/Proteria/SpinalCMS-and-Astro-Static-Site-Generator/actions/workflows/azure-static-web-apps-black-beach-01e6ebb03.yml/badge.svg)](https://github.com/Proteria/SpinalCMS-and-Astro-Static-Site-Generator/actions/workflows/azure-static-web-apps-black-beach-01e6ebb03.yml)
+
 # Spinal CMS with Astro as a Static Site Generator
 ## Spinal CMS
 Spinal CMS has permission to read and write markdown files in this repository. Spinal CMS doesn't depend on Astro framework and this framework can be changed to other one anytime. 
