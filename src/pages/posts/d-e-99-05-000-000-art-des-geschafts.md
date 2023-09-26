@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: D.E. 99 05 000 000 - Art des Geschäfts
-pubDate: 
+pubDate: '2023-09-26T13:31:50'
 description: 
 author: Anja Füger
 image: 

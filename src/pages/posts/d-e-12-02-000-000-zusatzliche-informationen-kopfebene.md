@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: D.E. 12 02 000 000 - Zusätzliche Informationen, Kopfebene
-pubDate: 
+pubDate: '2023-09-26T13:31:50'
 description: 
 author: Anja Füger
 image: 

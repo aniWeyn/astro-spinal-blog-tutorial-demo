@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: D.E. 18 09 000 000 - Warennummer
-pubDate: 
+pubDate: '2023-09-26T13:31:50'
 description: 
 author: Anja Füger
 image: 

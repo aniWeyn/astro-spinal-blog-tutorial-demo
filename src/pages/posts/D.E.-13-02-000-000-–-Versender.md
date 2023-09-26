@@ -3,7 +3,7 @@ layout: "../../layouts/MarkdownPostLayout.astro"
 title: D.E.13 02 000 000 – Versender
 pubDate: '2023-09-21T06:01:34'
 description: ''
-author: 
+author: Anja Füger
 image: ''
 ---
 
