@@ -1,6 +1,7 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: D.E. 17 09 000 000 - Gestellungszollstelle
+pubDate: 2023-09-11
 description: 
 author: Anja Füger
 image: 

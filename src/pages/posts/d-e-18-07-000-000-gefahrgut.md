@@ -1,6 +1,7 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: D.E. 18 07 000 000 - Gefahrgut
+pubDate: 2023-09-11
 description: 
 author: Anja Füger
 image: 
