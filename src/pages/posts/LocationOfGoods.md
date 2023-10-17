@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: D.E. 16 15 000 000 - Warenort
-pubDate: ''
+pubDate: 2023-10-17T09:17
 description: ''
 author: Anja Füger
 image: ''
