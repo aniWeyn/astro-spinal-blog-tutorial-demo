@@ -1,10 +1,10 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: Passive Veredelung 
+title: Passive Veredelung (Kopfebene) 
 pubDate: 2023-10-17T12:04
-description: 
+description: ''
 author: Anja Füger
-image: 
+image: ''
 ---
 
 Kopfebene
