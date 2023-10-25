@@ -33,5 +33,6 @@ Das Passwort können Sie frei wählen. Wenn Sie alle Registrierungsschritte durc
 <img src="/images/posts/grafik.png" alt="A sleeping cat.">
 ![grafik.png](images/posts/grafik.png) 
 ![grafik.png](/src/images/posts/grafik.png) 
+![A starry night sky.](/images/grafik.png)
 
 Bitte klicken Sie hier auf: Finde bestehende Proteria-Verknüpfungen. Wir werden anschließend die Benutzerrechte gewähren.Wir freuen uns auf die weitere angenehme Zusammenarbeit mit Ihnen!
