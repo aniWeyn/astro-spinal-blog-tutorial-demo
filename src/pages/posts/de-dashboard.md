@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: de-infoPage
+title: de-dashboard
 pubDate: 2023-10-24T12:58
 description: ''
 author: Anja Füger
