@@ -23,6 +23,12 @@ Voraussichtlich Anfang November werden wir eine Demo-Version zur Verfügung stel
 
 Derzeit kommt es zu erhöhten Support-Anfragen. Wir sind bemüht, alle Anfragen schnellstmöglich zu beantworten, bitten jedoch um Ihr Verständnis, falls es etwas länger dauert, bis wir uns um Ihr Anliegen kümmern. Danke für Ihre Geduld! 
 
-Wir entschuldigen uns für die Unannehmlichkeiten und freuen uns auf eine weitere gute und erfolgreiche Zusammenarbeit!Für Ihre Registrierung:[https://aesweb.proteria.com](https://aesweb.proteria.com%EF%BF%BC%EF%BF%BCDas "https://aesweb.proteria.com￼￼Das")Das Passwort können Sie frei wählen. Wenn Sie alle Registrierungsschritte durchgeführt haben und sich mit den Daten einloggen, werden Sie auf folgende Seite weitergeleitet:
+Wir entschuldigen uns für die Unannehmlichkeiten und freuen uns auf eine weitere gute und erfolgreiche Zusammenarbeit!
 
-![grafik.png](images/posts/grafik.png) Bitte klicken Sie hier auf: Finde bestehende Proteria-Verknüpfungen. Wir werden anschließend die Benutzerrechte gewähren.Wir freuen uns auf die weitere angenehme Zusammenarbeit mit Ihnen!
+Für Ihre Registrierung:[https://aesweb.proteria.com](https://aesweb.proteria.com%EF%BF%BC%EF%BF%BCDas "https://aesweb.proteria.com￼￼Das")
+
+Das Passwort können Sie frei wählen. Wenn Sie alle Registrierungsschritte durchgeführt haben und sich mit den Daten einloggen, werden Sie auf folgende Seite weitergeleitet:
+
+![grafik.png](images/posts/grafik.png) 
+
+Bitte klicken Sie hier auf: Finde bestehende Proteria-Verknüpfungen. Wir werden anschließend die Benutzerrechte gewähren.Wir freuen uns auf die weitere angenehme Zusammenarbeit mit Ihnen!
