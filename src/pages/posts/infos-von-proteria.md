@@ -30,6 +30,7 @@ Für Ihre Registrierung:
 
 Das Passwort können Sie frei wählen. Wenn Sie alle Registrierungsschritte durchgeführt haben und sich mit den Daten einloggen, werden Sie auf folgende Seite weitergeleitet:
 
+<img src="/images/posts/grafik.png" alt="A sleeping cat.">
 ![grafik.png](images/posts/grafik.png) 
 ![grafik.png](/src/images/posts/grafik.png) 
 
