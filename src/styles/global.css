@@ -176,7 +176,7 @@ html.dark {
   color: #fff;
 }
 
-@media (prefers-color-scheme: dark) {
+/*@media (prefers-color-scheme: dark) {
   html {
     background-color: var(--ui-black);
     color: #fff;
@@ -185,4 +185,4 @@ html.dark {
   a {
     color: #fff;
   }
-}
+}*/
