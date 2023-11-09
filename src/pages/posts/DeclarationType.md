@@ -15,6 +15,8 @@ image: ''
 
 00001300 – Standard-AM – zweistufiges Vereinfachtes Verfahren SDE-Ausfuhr (vormals „e“ - Zugelassener Ausführer)
 
+Vereinfachte Ausfuhranmeldung = unvollständige Ausfuhranmeldung; innerhalb von 30 Tagen muss eine ergänzende Ausfuhranmeldung abgegeben werden.
+
 **Abkürzungen:**NV – NormalverfahrenCCL – Centralized Clearance (Zentrale Zollabwicklung)SDE – Ausfuhr (Simplified Declaration) – **Zugelassener Ausführer**OPO – Outward processing procedure (Passive Veredelung)PV – Passive VeredelungEIR – Entry of data in the declarant\'s record (Anschreibung in der Buchführung des Anmelders)10000000 – Rückwirkende Ausfuhranmeldung - es wurde keine Ausfuhranmeldung erstellt
 
 11000000 – Nachträgliche Anmeldung bei vorheriger unrichtiger Anmeldung -Korrektur einer bestehenden Ausfuhranmeldung
