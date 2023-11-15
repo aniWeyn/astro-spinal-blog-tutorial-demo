@@ -7,3 +7,6 @@ author: Anja Füger
 image: ''
 ---
 
+Bei \"Sonstiger Verweis\" sind Negativcodierungen, die Positionsbezogen sind, wie z.B. Y901, 3LNA zu hinterlegen.
+
+Bei \"Unterlagen\" sind Bewilligungen z.B. des Bafa zu hinterlegen.
