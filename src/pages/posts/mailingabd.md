@@ -7,3 +7,4 @@ author: Anja Füger
 image: ''
 ---
 
+An die hinterlegte E-Mail-Adresse bzw. E-Mail-Adressen wird das ABD nach Freigabe automatisch gesendet.
