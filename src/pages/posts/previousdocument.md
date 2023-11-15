@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: D.E. 12 01 000 000 - Vorpapier(Kopfebene)
+title: D.E. 12 01 000 000 - Vorpapier(Kopfebene) -xx
 pubDate: '2023-09-20T12:19:51'
 author: Anja
 tags:
