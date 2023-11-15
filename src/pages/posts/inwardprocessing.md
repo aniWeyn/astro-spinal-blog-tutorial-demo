@@ -8,3 +8,5 @@ image: ''
 ---
 
 Es sind die Daten aus dem Verfahren der Aktiven Veredelung einzutragen.Die Bewilligung ist im Feld Bewilligungen auf Positionsebene zu hinterlegen.
+
+Die Angabe der Datengruppe ist nur zulässig, wenn das Datenfeld **//VERFAHREN/Vorhergehendes Verfahren** mit dem Wert **51** angegeben wird.
