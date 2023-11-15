@@ -19,6 +19,4 @@ Für die Rohmasse der einzelnen Warenpositionen gilt:- Die Rohmasse muss grunds�
 
 Bei einer Rohmasse von mehr als einem Kilogramm kann, sofern nicht durch besondere Bestimmungen die Angabe von Nachkommastellen vorgeschrieben ist, bei Dezimalstellen unter 0,5 auf volle Kilogramm abgerundet und bei Dezimalstellen von 0,5 oder mehr auf volle Kilogramm aufgerundet werden.
 
-Beträgt die Rohmasse weniger als 1 Kilogramm, so sollte sie mit drei Dezimalstellen angegeben werden.
-
-Beispiel:Eine Rohmasse von 340 g ist wie folgt anzugeben: 0,340
+Beträgt die Rohmasse weniger als 1 Kilogramm, so sollte sie mit drei Dezimalstellen angegeben werden.Beispiel:Eine Rohmasse von 340 g ist wie folgt anzugeben: 0,340
