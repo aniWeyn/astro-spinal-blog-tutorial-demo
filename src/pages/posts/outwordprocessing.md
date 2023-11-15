@@ -7,4 +7,4 @@ author: Anja Füger
 image: ''
 ---
 
-Kopfebene
+Informationen zur Überführung in die zollrechtliche Passive Veredelung.
