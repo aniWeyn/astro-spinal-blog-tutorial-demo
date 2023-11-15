@@ -7,3 +7,4 @@ author: Anja Füger
 image: ''
 ---
 
+Dem Ersteller der Anmeldung bekannte Registriernummer eines Systems am Ausgang, z.B. Luftfrachtbrief- oder Hafensystem-Nummer.
