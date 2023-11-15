@@ -11,8 +11,4 @@ Hier ist unter Benutzung einer der nachfolgenden Codes der genutzte Verkehrszwei
 
 1 - Seeverkehr2 - Eisenbahnverkehr3 - Straßenverkehr4 - Luftverkehr5 - Postsendungen7 - Fest installierte Transporteinrichtungen1)8 - Binnenschifffahrt9 - Eigener Antrieb2)
 
-Anmerkungen:
-
-1) z. B. Rohrleitungen
-
-2) Beförderungsmittel, die selbst Gegenstand eines Handelsgeschäfts sind und mit eigener Kraft den Ort der Gestellung verlassen
+Anmerkungen:1) z. B. Rohrleitungen2) Beförderungsmittel, die selbst Gegenstand eines Handelsgeschäfts sind und mit eigener Kraft den Ort der Gestellung verlassen
