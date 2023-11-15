@@ -9,6 +9,6 @@ image: ''
 
 ## löst „Vermerk“ und „besonderer Tatbestand“ ab
 
-**Vermerk - Nachricht an die Ausfuhrzollstelle ist mit X000 anzugeben**
+**Vermerk - Nachricht an die Ausfuhrzollstelle ist mit X000 anzugeben.**
 
 **\"Besonderer Tatbestand\" ist nur noch anzugeben, wenn einer der Werte zutrifft**{::}**0-ohne ist NICHT mehr anzugeben.**
