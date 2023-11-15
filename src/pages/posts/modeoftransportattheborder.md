@@ -9,18 +9,4 @@ image: ''
 
 Hier ist unter Benutzung eines der nachfolgenden Codes die Art des Verkehrszweiges entsprechend dem mutmaßlichen aktiven Beförderungsmittel anzugeben, mit dem die Außengrenze des Zollgebietsder Union überschritten wird:
 
-1 - Seeverkehr
-
-2 - Eisenbahnverkehr
-
-3 - Straßenverkehr
-
-4 - Luftverkehr
-
-5 - Postsendungen
-
-7 - Fest installierte Transporteinrichtungen1)
-
-8 - Binnenschifffahrt
-
-9 - Eigener Antrieb
+1 - Seeverkehr2 - Eisenbahnverkehr3 - Straßenverkehr4 - Luftverkehr5 - Postsendungen7 - Fest installierte Transporteinrichtungen8 - Binnenschifffahrt9 - Eigener Antrieb
