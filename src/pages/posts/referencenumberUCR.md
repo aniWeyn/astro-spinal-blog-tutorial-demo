@@ -9,4 +9,6 @@ image: ''
 
 Eindeutige Identifikation der Sendung, z.B. Unique Consignment Reference.
 
-Die Angabe des Datenfelds ist unzulässig, wenn mindestens ein Datenfeld **WARENPOSITION/Referenznummer/UCR**&amp;nbsp;angegeben wird.
+Sofern dieses Datenfeld in allen Datengruppen **WARENPOSITION**&amp;nbsp;angegeben wird, darf der angegebene Wert nicht übergreifend identisch verwendet werden.
+
+Die Datenfelder auf Kopf- und hier auf Warenpositionsebene schließen sich gegenseitig aus.
