@@ -9,7 +9,7 @@
   --decorative-header-line-height: 51px;
 
   /* font variables */
-  --base-size: 1rem;
+  --base-size: 0.8rem;
   --scale: 1.125; /*https://typescale.com/, scale: minor second*/
   --h5: calc(var(--base-size) * var(--scale));
   --h4: calc(var(--h5) * var(--scale));
@@ -48,10 +48,10 @@ html {
 body {
   font-family: "Open Sans", sans-serif;
   font-size: var(--base-size);
-  margin: 0 auto;
+  margin: 1rem 1rem;
   width: 100%;
-  max-width: 80ch;
-  padding: 1rem;
+  max-width: 60vw;
+  padding: 0rem;
   line-height: 1.5;
 }
 
@@ -65,7 +65,7 @@ h3,
 h4,
 h5 {
   font-family: "Open Sans", sans-serif;
-  margin: 1.38rem 0 1.38rem;
+  margin: 0.5rem 0 0.5rem;
   font-weight: 600;
   line-height: 1.4;
 }
