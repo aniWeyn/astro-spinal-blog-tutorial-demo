@@ -7,7 +7,7 @@ author: Anja Füger
 image: ''
 ---
 
-## Herzlich willkommen bei unserem ersten Release!
+## Herzlich willkommen zu unserem ersten Release!
 
 In Anbetracht der kürzlich erfolgten und wichtigen Aktualisierungen im Exportrecht haben wir einen proaktiven Ansatz gewählt, um sicherzustellen, dass unsere Lösung nicht nur den neuesten Vorschriften entsprecht, sondern Ihnen auch eine Vielzahl neuer Vorteile bringt. Diese Veränderungen spiegeln unser unerschütterliches Engagement wieder, unseren Service für Sie weiter zu optimiern und unsere Geschäftsinteraktionen so reibungslos wie möglich zu gestalten.
 
