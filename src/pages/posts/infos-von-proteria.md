@@ -1,4 +1,5 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 title: Infos von Proteria
 pubDate: '2023-09-28T13:52:41'
 author: Anja Füger
