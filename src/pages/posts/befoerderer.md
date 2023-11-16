@@ -23,7 +23,7 @@ TCUI-Nummer – Third Country unique identification-Nummer:
 
 TCUI ist ein Oberbegriff für Identifikationsnummern, die nicht von einem EU-Mitgliedstaat vergeben worden sind, sondern der Identifikationsnummer eines Drittlandes basieren.
 
-In ATLAS werden derzeit nur EU-MRA-Nummern als TCUI-Nummer anerkannt. Diese basieren auf dem „Mutual Recognation Agreement“, einem Abkommen über die gegenseitige Anerkennung von Wirtschaftsbeteiligten.In der EU werden nur TCUI-Nummern von folgenden Ländern anerkannt: Schweiz, in Norwegen, Japan, den USA und China
+In ATLAS werden derzeit nur EU-MRA-Nummern als TCUI-Nummer anerkannt. Diese basieren auf dem „Mutual Recognation Agreement“, einem Abkommen über die gegenseitige Anerkennung von Wirtschaftsbeteiligten.In der EU werden nur TCUI-Nummern von folgenden Ländern anerkannt: Schweiz, in Norwegen, Japan, den USA und China.
 
 *Mit einer GB-EORI kann seit dem Austritt Großbritanniens aus der EU nicht mehr angemeldet werden!*
 
