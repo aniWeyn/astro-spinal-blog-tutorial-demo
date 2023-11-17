@@ -7,4 +7,4 @@ author: Anja
 image: ''
 ---
 
-Es ein innerbetriebliches Ordnungskriterium anzugeben, welches die z.B. **Rechnungsnummer oder Lieferscheinnummer** sein kann.Die Interne Referenz sollte eine Verknüpfung zur FiBu herstellen.
+Es ein innerbetriebliches Ordnungskriterium anzugeben, welches die z.B. **Rechnungsnummer oder Lieferscheinnummer** sein kann. Die Interne Referenz sollte eine Verknüpfung zur FiBu herstellen.
