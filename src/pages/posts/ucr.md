@@ -7,6 +7,6 @@ author: Anja Füger
 image: ''
 ---
 
-Eindeutige Identifikation der Sendung, z.B. Unique Consignment Reference.
+Eindeutige Identifikation der Sendung, z.B. Unique Consignment Reference.***Vormals \"Kennnummer des Sendung\".***
 
 Die Datenfelder auf Kopf- und hier auf Warenpositionsebene schließen sich gegenseitig aus.
