@@ -21,7 +21,7 @@ Bei Rückfragen zur neuen Softwäre berücksichtigen Sie bitte, dass Sie in der 
 
 Mit freundlichen GrüßenIhr Proteria-Team
 
-Die Registrierung erfolgt auf:[https://aesweb.proteria.com](https://aesweb.proteria.com%EF%BF%BC%EF%BF%BCDas "https://aesweb.proteria.com￼￼Das")Weiter unten auf dieser Seite finden Sie eine Anleitung mit Screenshots.
+Die Registrierung erfolgt auf:[https://aesweb.proteria.com](https://aesweb.proteria.com%EF%BF%BC%EF%BF%BCDas "https://aesweb.proteria.com￼￼Das")Weiter unten auf dieser Seite finden Sie eine Anleitung mit Screenshot.
 
 Voraussichtlich Anfang November werden wir eine Demo-Version zur Verfügung stellen, so dass Sie sich mit der neuen Software vertraut machen können. Des weiteren werden wir Hilfestellung zur neuen Eingabemaske und den neuen Pflichtfeldern, die der Release-Wechsel zollseitig mit sich bringt, bereitstellen.
 
