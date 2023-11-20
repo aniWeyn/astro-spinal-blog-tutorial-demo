@@ -7,7 +7,7 @@ author: Anja Füger
 image: ''
 ---
 
-Anzugeben sind Name und Vorname bzw. Firma und vollständige Anschrift der Person (Personen), der (denen) die Waren letztendlich geliefert werden.**Beim Empfänger ist keine EORI-Nummer zu hinterlegen!**
+Anzugeben sind Name und Vorname bzw. Firma und vollständige Anschrift der Person (Personen), der (denen) die Waren letztendlich geliefert werden.***Beim Empfänger ist keine EORI-Nummer zu hinterlegen!***
 
 Liegen die Angaben zum Empfänger nur unvollständig vor, ist der letzte, dem Anmelder mit vollständigen Angaben bekannte Empfänger anzugeben.
 
