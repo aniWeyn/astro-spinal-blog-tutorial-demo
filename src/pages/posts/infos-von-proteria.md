@@ -1,28 +1,27 @@
 ---
-layout: "../../layouts/MarkdownPostLayout.astro"
 title: Infos von Proteria
 pubDate: '2023-09-28T13:52:41'
 author: Anja Füger
 ---
 
-***!! Wichtige Information zum Release-Wechsel Atlas-Ausfuhr 3.0 - Terminänderung !!***
+Sehr geehrte Kunden,
 
-Sehr geehrte Damen und Herren,
+eine komplette Demo- / Test-Version ohne Zollkommunikation ist in der Software, für die Sie sich bereits registriert haben, nun freigeschalten.Demnächst werden wir dazu Tutorials zur Verfügung stellen. Darüber informieren wir Sie in einer weiteren Mail.Bei Rückfragen zur neuen Softwäre berücksichtigen Sie bitte, dass Sie in der laufenden Woche mit einer Beta-Version arbeiten, die noch Fehler aufweißen kann.Zu den Eingabefeldern sind entsprechende Feldhilfen verfügbar.Bitte beachten Sie auch unbedingt das [Merkblatt zu Zollanmeldungen](https://proteria.us17.list-manage.com/track/click?u=d11c59bf6155c5ceb7791f918&amp;id=96b402aa93&amp;e=881803a0a3 "https://proteria.us17.list-manage.com/track/click?u=d11c59bf6155c5ceb7791f918&amp;id=96b402aa93&amp;e=881803a0a3") der Zollverwaltung.
 
-im Zuge der Fristverlängerung der Zollverwaltung wird unser Umstellungstermin ab Mitte November sein. Über den genauen Termin informieren wir Sie noch.
+Bitte nutzen Sie bis Donnerstag, 23.11.23 für Ihre Ausfuhranmeldungen die aktuelle Software. Ab 21 Uhr wird das Senden dieser nicht mehr möglich sein. Zollseitige Nachrichten können noch bis Freitag, den 24.11., 12 Uhr empfangen werden. Das bedeutet für Kunden, die am Donnerstag eine Ausfuhranmeldung mit Gestellung ausserhalb des Amtsplatztes einstellen, sofern die Gestellungszeit vor 12 Uhr endet, dass sie das ABD, wie gewohnt, in [ProTeria.NET](http://ProTeria.NET "http://ProTeria.NET") erhalten werden.Zum Umstellungstermin werden wir die Datensätze aus dem Kunden-/Stammdaten- und Artikelregister nochmals aktualisieren. Das bedeutet, wenn Sie Ihre Daten pflegen wollen, tun Sie dies bitte weiterhin in der aktuellen Software, da Änderungen, die Sie in der Demo-Version vornehmen, zum Umstellungstermin überschrieben werden.
 
-Wir entschuldigen uns für die entstehenden Umstände!Wir sind uns bewusst, dass dies eine herausfordernde Phase für alle ist, mit allen Aspekten, die diese Umstellung mit sich bringt - dies betrifft insbesondere auch unsere Entwicklungsabteilung, die mit Hochdruck daran arbeitet, die neuen Anforderungen der Zollverwaltung umzusetzen und gleichzeitig eine Software zu entwickeln, die den heutigen IT-Standards/Anforderungen gerecht wird.
+Ab Montag, 27.11.23 ist das Senden von Ausfuhranmeldungen dann nur noch über die neue Lösung möglich. Die neue Software ist eine Online-Lösung, die Sie so weiterhin als Vollversion im Browser verwenden werden. Diese ersetzt den bisherigen downloadbaren Desktop-Client.
 
-Um die Umstellung so reibungslos wie möglich für Sie durchzuführen, bitten wir Sie, sich schnellstmöglich für die neue Software zu registrieren/ein Benutzerkonto einzurichten. Die Registrierung erfolgt auf:[https://aesweb.proteria.com](https://aesweb.proteria.com%EF%BF%BC%EF%BF%BCDas "https://aesweb.proteria.com%EF%BF%BC%EF%BF%BCDas")
+Derzeit verzeichnen wir ein erhöhtes telefonisches Anfrageaufkommen, das wir nur schwerlich bewältigen können. Daher bitten wir Sie im Sinne einer schnellstmöglichen und effizienten Bearbeitung Ihrer Anliegens, Ihre Anfragen möglichst per mail mit möglichst präzisen Angaben Ihres Problems zu stellen.
 
-Weiter unten auf dieser Seite finden Sie eine Anleitung mit Screenshots.
+Bei Rückfragen zur neuen Softwäre berücksichtigen Sie bitte, dass Sie in der laufenden Woche mit einer Beta-Version arbeiten, die noch Fehler aufweißen kann&amp;nbsp;
 
-Voraussichtlich Anfang November werden wir eine Demo-Version zur Verfügung stellen, so dass Sie sich mit der neuen Software vertraut machen können. Des weiteren werden wir Hilfestellung zur neuen Eingabemaske und den neuen Pflichtfeldern, die der Release-Wechsel zollseitig mit sich bringt, bereitstellen.
+Mit freundlichen GrüßenIhr Proteria-Team
 
-Derzeit kommt es zu erhöhten Support-Anfragen. Wir sind bemüht, alle Anfragen schnellstmöglich zu beantworten, bitten jedoch um Ihr Verständnis, falls es etwas länger dauert, bis wir uns um Ihr Anliegen kümmern. Danke für Ihre Geduld!&amp;nbsp;
 
-Wir entschuldigen uns für die Unannehmlichkeiten und freuen uns auf eine weitere gute und erfolgreiche Zusammenarbeit!
 
-Für Ihre Registrierung:[https://aesweb.proteria.com](https://aesweb.proteria.com%EF%BF%BC%EF%BF%BCDas "https://aesweb.proteria.com%EF%BF%BC%EF%BF%BCDas")
+Für Ihre Registrierung:
+
+[https://aesweb.proteria.com](https://aesweb.proteria.com%EF%BF%BC%EF%BF%BCDas "https://aesweb.proteria.com%EF%BF%BC%EF%BF%BCDas")
 
 Das Passwort können Sie frei wählen. Wenn Sie alle Registrierungsschritte durchgeführt haben und sich mit den Daten einloggen, werden Sie auf folgende Seite weitergeleitet:![grafik-ca97cc.png](images/posts/grafik-ca97cc.png)Bitte klicken Sie hier auf: Finde bestehende Proteria-Verknüpfungen. Wir werden anschließend die Benutzerrechte gewähren.Wir freuen uns auf die weitere angenehme Zusammenarbeit mit Ihnen!
