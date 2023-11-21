@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import BlogPost from "../components/BlogPost.astro";
+import Navigaation from "../components/Navigation.astro";
+import Footer from "../components/Footer.astro";
+import ThemeIcon from "../components/ThemeIcon.astro";
+
+const pageTitle = "Tutorials";
+const allTutorials = await Astro.glob("../pages/tutorials/*.md");
+---
+<BaseLayout pageTitle={pageTitle}>
+  <h1 class="title">Proteria Help Fields</h1>
+  <ul>
+    {allTutorials.map((tutorial) => <BlogPost url={tutorial.url} title={tutorial.frontmatter.title}/>)}
+  </ul>
+  <Footer />
+</BaseLayout>
+
+<style>
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+</style>
