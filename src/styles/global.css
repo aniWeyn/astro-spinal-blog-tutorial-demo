@@ -186,3 +186,7 @@ html.dark {
     color: #fff;
   }
 }*/
+
+img{
+  max-width: 600px;
+}
