@@ -7,6 +7,8 @@ author: ''
 
 here I test images
 
+![grafik.png](images/tutorials/grafik.png)
+
 ![image.png](images/tutorials/image.png)
 
 ![image-d88377.png](images/tutorials/image-d88377.png)
