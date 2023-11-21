@@ -9,7 +9,7 @@ here I test images
 
 &lt;a href=\"[https://example.com](https://example.com "https://example.com")\" target=\"\_blank\"&gt;Test of links with \_blank&lt;/a&gt;
 
-![grafik.png](images/tutorials/grafik.png)
+![grafik.png](images/tutorials/grafik.png)![image-b26b25.png](../../images/tutorials/image-b26b25.png)![image-ef3609.png](../../images/tutorials/image-ef3609.png)
 
 ![image.png](images/tutorials/image.png)
 
