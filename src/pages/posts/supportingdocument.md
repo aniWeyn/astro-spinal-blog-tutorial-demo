@@ -7,4 +7,4 @@ author: Anja Füger
 image: ''
 ---
 
-Ausfuhrgenehmigungen sind hier zu hinterlegen.
+Für Hinweise auf Rechnung, Packstück, Lieferschein etc.
