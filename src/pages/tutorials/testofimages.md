@@ -7,6 +7,8 @@ author: ''
 
 here I test images
 
+&lt;a href=\"[https://example.com](https://example.com "https://example.com")\" target=\"\_blank\"&gt;Test of links with \_blank&lt;/a&gt;
+
 ![grafik.png](images/tutorials/grafik.png)
 
 ![image.png](images/tutorials/image.png)
