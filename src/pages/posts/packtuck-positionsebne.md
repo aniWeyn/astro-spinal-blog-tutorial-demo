@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: Packtück (Positionsebne) 
+title: Packstück (Positionsebne) 
 pubDate: 2023-11-22T08:41
 description: 
 author: Anja Füger
