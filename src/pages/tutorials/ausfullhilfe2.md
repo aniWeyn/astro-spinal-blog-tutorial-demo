@@ -7,7 +7,7 @@ author: ''
 
 ## **Proteria Web AES**
 
-### Allgemeines:
+Allgemeines
 
 ### Menü:
 
