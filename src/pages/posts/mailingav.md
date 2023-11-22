@@ -7,4 +7,4 @@ author: Anja Füger
 image: ''
 ---
 
-An die hinterlegte E-Mail-Adresse(n) wird der AV nach Freigabe gesendet
+An die hinterlegte(n) E-Mail-Adresse(n) wird der AV nach Freigabe gesendet.
