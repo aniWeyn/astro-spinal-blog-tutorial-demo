@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/MarkdownPostLayout.astro"
+layout: "../../layouts/MarkdownPostLayoutTutorial.astro"
 title: Packstücke
 pubDate: 2023-11-21T23:02
 author: ''
