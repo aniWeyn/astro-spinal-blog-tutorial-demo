@@ -5,14 +5,13 @@ import Navigaation from "../components/Navigation.astro";
 import Footer from "../components/Footer.astro";
 import ThemeIcon from "../components/ThemeIcon.astro";
 
-const pageTitle = "Home Page";
+const pageTitle = "Help Fields";
 const allPosts = await Astro.glob("../pages/posts/*.md");
 ---
 <BaseLayout pageTitle={pageTitle}>
-  <h1 class="title">Proteria German Export help fileds pages and tutorials </h1>
+  <h2 class="title">Help Fields</h2>
   <ul>
-    <li><a href="/helpfields">Help Fields</a></li>
-    <li><a href="/tutorials">Tutorials</a></li>
+    {allPosts.map((post) => <BlogPost url={post.url} title={post.frontmatter.title}/>)}
   </ul>
   <Footer />
 </BaseLayout>
@@ -22,6 +21,5 @@ const allPosts = await Astro.glob("../pages/posts/*.md");
   list-style-type: none;
   margin: 0;
   padding: 0;
-  font-size: 1rem;
 }
 </style>

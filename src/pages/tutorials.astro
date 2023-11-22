@@ -9,7 +9,7 @@ const pageTitle = "Tutorials";
 const allTutorials = await Astro.glob("../pages/tutorials/*.md");
 ---
 <BaseLayout pageTitle={pageTitle}>
-  <h1 class="title">Proteria Help Fields</h1>
+  <h2 class="title">Tutorials</h2>
   <ul>
     {allTutorials.map((tutorial) => <BlogPost url={tutorial.url} title={tutorial.frontmatter.title}/>)}
   </ul>
