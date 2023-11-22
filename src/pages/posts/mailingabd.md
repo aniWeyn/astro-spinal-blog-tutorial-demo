@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: ABD-Mailing
+title: ABD E-Mail an
 pubDate: 2023-10-18T14:39
 description: ''
 author: Anja Füger
