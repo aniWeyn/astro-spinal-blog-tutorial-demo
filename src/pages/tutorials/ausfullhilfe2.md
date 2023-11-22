@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/MarkdownPostLayout.astro"
+layout: "../../layouts/MarkdownPostLayoutTutorial.astro"
 title: Ausfüllhilfe2
 pubDate: 2023-11-20T23:57
 author: ''

@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: "../../layouts/MarkdownPostLayoutTutorial.astro"
 title: Verfahren
 pubDate: 2023-11-21T23:06
 author: ''
