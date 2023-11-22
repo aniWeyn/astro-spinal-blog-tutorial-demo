@@ -35,7 +35,7 @@ Falls abweichende Ladeort-Adresse:
 
 ![image-85d142.png](../../images/tutorials/image-85d142.png)
 
-2. Anmeldung unter Verwendung einer Bewilligung SDE (vormals „Zugelassener Ausführer“)
+### 2. Anmeldung unter Verwendung einer Bewilligung SDE (vormals „Zugelassener Ausführer“)
 
 Bisher: AM+e
 
@@ -49,7 +49,7 @@ Angabe der Bewilligungsnummer + Ladeort-Code:
 
 ![image-92360a.png](../../images/tutorials/image-92360a.png)
 
-3. Anmeldung mit Gestellung am Amtsplatz:
+### 3. Anmeldung mit Gestellung am Amtsplatz:
 
 Bisher: AM+a
 
@@ -63,7 +63,7 @@ Ladeort:
 
 ![image-9a3d0d.png](../../images/tutorials/image-9a3d0d.png)
 
-4. Anmeldung im einstufigen Verfahren
+### 4. Anmeldung im einstufigen Verfahren
 
 Bisher: AM+g
 
