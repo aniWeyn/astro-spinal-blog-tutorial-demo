@@ -4,7 +4,6 @@ const { frontmatter } = Astro.props;
 ---
 
 <BaseLayout pageTitle={frontmatter.title}>
-  <h1>{frontmatter.title}</h1>
   <slot />
   <section>
     <!--<hr/>
@@ -16,9 +15,20 @@ const { frontmatter } = Astro.props;
 </BaseLayout>
 
 <style>
-  section{
-    color: var(--ui-grey);
-    font-size: small;
+  body{
     padding-bottom: 265px;
+    max-width: 48rem;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1rem;
+
+    img, video {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    padding: 20px 0px;
+}
   }
+
+
 </style>
