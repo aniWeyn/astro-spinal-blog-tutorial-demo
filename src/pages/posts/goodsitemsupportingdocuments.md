@@ -7,4 +7,4 @@ author: Anja Füger
 image: ''
 ---
 
-Hier sind Bewilligungen z.B. des Bafa einzutragen.
+Hier sind Genehmigungen z.B. des Bafa einzutragen.
