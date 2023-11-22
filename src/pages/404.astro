@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout pageTitle={"Proteria"}>
+    <div class="layout--404">
+        <div class="card--404">
+            <img src="../images/shared/heart.svg" loading="lazy" alt="" class="card--icon">
+            <h1>Our appologies!</h!>
+            <h2>This field doesn't have a help field, yet...</h2>
+            <p>You can find help fields by tapping on the label or the field itself.</p>
+        </div>
+    </div>
+</BaseLayout>
+
+<style>
+.layout--404{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.card--404{
+    background-color: var(--tertiary-blue);
+    padding: 28px;
+    width: 70vw;
+    height: 30vh;
+    border-radius: 10px;
+    flex-direction: column;
+    display: flex;
+    color: #040404;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.card--icon{
+    width: 30%;
+    margin-bottom: 28px;
+}
+</style>
