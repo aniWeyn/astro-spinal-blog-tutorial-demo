@@ -19,11 +19,11 @@ Viel Spaß beim Anschauen und Lernen!
 
 Zusätzlich zu unserem Video-Tutorial bieten wir auch schriftliche Anleitungen für Ihre Bequemlichkeit an. Die detaillierten Schritt-für-Schritt-Anweisungen finden Sie unten. Verpassen Sie nicht die zusätzlichen Ressourcen und Links für weiterführende Informationen. Happy Learning!
 
-#### Ausfüllhilfe
+#### Übersicht
 
-Entdecken Sie unser Tutorial zur \"Ausfüllhilfe\", in dem wir Schritt-für-Schritt-Anleitungen für die Verwendung unserer Software zur Verfügung stellen, um den Prozess des Formularausfüllens zu vereinfachen und zu optimieren. Lernen Sie effiziente Techniken, um das Beste aus unserer Anwendung herauszuholen.
+Entdecken Sie unser Tutorial zur \"Übersicht\", in dem wir Schritt-für-Schritt-Anleitungen für die Verwendung unserer Software zur Verfügung stellen, um den Prozess des Formularausfüllens zu vereinfachen und zu optimieren. Lernen Sie effiziente Techniken, um das Beste aus unserer Anwendung herauszuholen.
 
-[**Gehe zum Tutorial für die \"Ausfüllhilfe\"**](https://help.proteria.de/tutorials/ausfullhilfe2 "https://help.proteria.de/tutorials/ausfullhilfe2")
+[**Gehe zum Tutorial für die \"**](https://help.proteria.de/tutorials/ausfullhilfe2 "https://help.proteria.de/tutorials/ausfullhilfe2")**Übersicht**[**\"**](https://help.proteria.de/tutorials/ausfullhilfe2 "https://help.proteria.de/tutorials/ausfullhilfe2")
 
 #### Packstücken
 
