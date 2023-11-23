@@ -6,9 +6,9 @@ author: Anja Füger
 image: ''
 ---
 
-Hier sind Angaben erforderlich zum aktiven Beförderungsmittel, mit dem mutmaßlich die Außengrenze des Zollgebiets der Union überschritten wird, incl. Kennzeichen. Die bestehenden Möglichkeiten der Angabe des Kennzeichens: - sofern das Kennzeichen im Zeitpunkt der Abgabe der Ausfuhranmeldung bekannt ist, ist es anzugeben.- ist es im Zeitpunkt der Abgabe der Ausfuhranmeldung nicht bekannt, kann das mutmaßliche Kennzeichen angegeben werden.
+Hier sind Angaben erforderlich zum aktiven Beförderungsmittel, mit dem mutmaßlich die Außengrenze des Zollgebiets der Union überschritten wird, incl. Kennzeichen.Die bestehenden Möglichkeiten der Angabe des Kennzeichens: - sofern das Kennzeichen im Zeitpunkt der Abgabe der Ausfuhranmeldung bekannt ist, ist es anzugeben.- ist es im Zeitpunkt der Abgabe der Ausfuhranmeldung nicht bekannt, kann das mutmaßliche Kennzeichen angegeben werden.
 
-<strong><em>- ist es im Zeitpunkt der Abgabe der Ausfuhranmeldung nicht bekannt und kann kein mutmaßliches Kennzeichen angegeben werden, kann die Art des Beförderungsmittels (in Großbuchstaben) angegeben werden. </em></strong>
+***- ist es im Zeitpunkt der Abgabe der Ausfuhranmeldung nicht bekannt und kann kein mutmaßliches Kennzeichen angegeben werden, kann die Art des Beförderungsmittels (in Großbuchstaben) angegeben werden.***
 
 ***Beispiel: Angabe „LKW“ im Landstraßenverkehr***
 
