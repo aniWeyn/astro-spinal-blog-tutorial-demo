@@ -21,17 +21,17 @@ Zusätzlich zu unserem Video-Tutorial bieten wir auch schriftliche Anleitungen f
 
 #### Übersicht
 
-Entdecken Sie unser Tutorial zur \"Übersicht\", in dem wir Schritt-für-Schritt-Anleitungen für die Verwendung unserer Software zur Verfügung stellen, um den Prozess des Formularausfüllens zu vereinfachen und zu optimieren. Lernen Sie effiziente Techniken, um das Beste aus unserer Anwendung herauszuholen.
+Entdecken Sie unser Tutorial zur “Übersicht”, in dem wir Schritt-für-Schritt-Anleitungen für die Verwendung unserer Software zur Verfügung stellen, um den Prozess des Formularausfüllens zu vereinfachen und zu optimieren. Lernen Sie effiziente Techniken, um das Beste aus unserer Anwendung herauszuholen.
 
-[**Gehe zum Tutorial für die \"**](https://help.proteria.de/tutorials/ausfullhilfe2 "https://help.proteria.de/tutorials/ausfullhilfe2")**Übersicht**[**\"**](https://help.proteria.de/tutorials/ausfullhilfe2 "https://help.proteria.de/tutorials/ausfullhilfe2")
+[**Gehe zum Tutorial für die ”**](https://help.proteria.de/tutorials/ubersicht "https://help.proteria.de/tutorials/ubersicht")[**Übersicht**](https://help.proteria.de/tutorials/ubersicht "https://help.proteria.de/tutorials/ubersicht")[**”**](https://help.proteria.de/tutorials/ubersicht "https://help.proteria.de/tutorials/ubersicht")
 
 #### Packstücken
 
-Entdecken Sie unser Tutorial zu \'Packstücken\', in dem wir praxisnahe Einblicke und Schritt-für-Schritt-Anleitungen bieten, um die Effizienz und Organisation bei der Verwaltung von Paketen zu optimieren.
+Entdecken Sie unser Tutorial zu ‘Packstücken’, in dem wir praxisnahe Einblicke und Schritt-für-Schritt-Anleitungen bieten, um die Effizienz und Organisation bei der Verwaltung von Paketen zu optimieren.
 
 [**Gehe zum Tutorial für Packstücken**](https://help.proteria.de/tutorials/packstucke "https://help.proteria.de/tutorials/packstucke")
 
-#### Verfahren 
+#### Verfahren
 
 Verfahren bezieht sich auf die Verfahrensschritte im Exportprozess, und in unserem Tutorial erfahren Sie, wie Sie diese entscheidenden Schritte geschickt navigieren und in unserer Software ausfüllen können
 
