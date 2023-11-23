@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: D.E. 19 08 000 000 - Zusatz
+title: Kennzeichen
 pubDate: 2023-10-18T12:50
 description: ''
 author: Anja Füger
