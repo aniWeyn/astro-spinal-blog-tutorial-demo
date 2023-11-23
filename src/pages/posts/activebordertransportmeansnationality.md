@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: Kennzeichen
+title: Grenzüberschreitendes aktives Beförderungsmittel - Nationalität
 pubDate: 2023-10-18T12:50
 description: ''
 author: Anja Füger
