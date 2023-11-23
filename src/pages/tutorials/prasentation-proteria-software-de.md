@@ -1,8 +1,8 @@
 ---
-layout: 
-title: "\r\n      Präsentation Proteria - Software (DE)\r\n    "
+layout: "../../layouts/MarkdownPostLayoutTutorial.astro"
+title: Präsentation Proteria - Software (DE)
 pubDate: 2023-11-23T09:31
-author: 
+author: ''
 ---
 
 #### Herzlich willkommen! 
