@@ -7,6 +7,8 @@ author: Anja Füger
 image: 
 ---
 
+**Die Angabe auf Positionsebene ist nur dann vorzunehmen sofern die Anmeldung unterschiedliche Ausfuhrländer enthält und somit nicht einheitlich auf der Kopfebene angegeben werden kann.**
+
 Hier ist der „tatsächliche Ausfuhrmitgliedstaat“ anzugeben, von dem aus die Waren ursprünglich im Hinblick auf ihre Ausfuhr versandt werden, ohne dass in transportbedingt zwischengeschalteten Mitgliedstaaten Handelsgeschäfte stattfinden, die den rechtlichen Status der Ware ändern.
 
 Beispiel:Ein deutsches Unternehmen hat in Frankreich (FR) ein Auslieferungslager. Von dort wird eine Maschine via Rotterdam (NL) in die Vereinigten Staaten ausgeführt. Im Falle einer Bewilligung für die Zentrale Zollabwicklung ist in der in Deutschland abzugebenden Ausfuhranmeldung als „tatsächlicher Ausfuhrmitgliedstaat“ „FR“ anzugeben.
