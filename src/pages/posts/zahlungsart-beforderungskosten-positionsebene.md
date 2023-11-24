@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: Zahlungsart (Beförderungskosten)Positionsebene 
+title: Zahlungsart (Beförderungskosten) Positionsebene 
 pubDate: 2023-11-24T10:45
 description: 
 author: Anja Füger
