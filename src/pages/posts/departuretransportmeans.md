@@ -6,7 +6,7 @@ author: Anja Füger
 image: ''
 ---
 
-Nach Kenntnis im Zeitpunkt der Erfüllung der Ausfuhrförmlichkeiten ist die Art der Identifikation des aktiven Beförderungsmittels, auf dem die Waren bei ihrer Gestellung bei der Zollstelle unmittelbar verladen sind und das Kennzeichen oder Nummer bzw. Namen anzugeben.
+Nach Kenntnis im Zeitpunkt der Erfüllung der Ausfuhrförmlichkeiten ist die Art der Identifikation des aktiven Beförderungsmittels, <strong><em>auf dem die Waren bei ihrer Gestellung bei der Zollstelle unmittelbar verladen sind</em> </strong>und das Kennzeichen oder Nummer bzw. Namen anzugeben.
 
 Wenn Zugmaschine und Auflieger unterschiedliche Kennzeichen haben, sind beide anzugeben. Ist das Kennzeichen der Zugmaschine nicht bekannt, so ist dasjenige des Aufliegers anzugeben. Zusätzlich ist die Staatszugehörigkeit des aktiven Beförderungsmittels (Registrierungsland) anzugeben. Wenn Zugmaschine und Auflieger in unterschiedlichen Staaten gemeldet sind, ist die Staatszugehörigkeit der Zugmaschine anzugeben. Erfolgt die Beförderung jedoch mit Zugmaschine und Anhänger, so sind beide Staatszugehörigkeiten anzugeben. Wenn die Nationalität der Zugmaschine nicht bekannt ist, so ist die Staatszugehörigkeit des Anhängers anzugeben.
 
