@@ -1,32 +1,13 @@
 ---
-layout: "../../layouts/MarkdownPostLayout.astro"
 title: Infos von Proteria
 pubDate: '2023-09-28T13:52:41'
-description: ''
 author: Anja Füger
-image: ''
 ---
 
-Sehr geehrte Kunden,
+Sehr geehrte Damen und Herren,die Umstellung ist erfolgt, jedoch ist die Kommunikation zum Zoll noch pausiert.Das bedeutet:-Ausfuhranmeldungen können vorbereitet und die Plausibilitätskontrolle kann durchgeführt werden.-Für Kunden, die die Schnittstelle verwenden: Der Daten-Upload ist möglich, die importierten Anmeldung erscheinen in der Übersicht zur weiteren Bearbeitung.Wir arbeiten mit Hochdruck an der Freischaltung und gehen davon aus, dass die Zollkommunikation im Lauf des Tages freigeschalten wird.Für Ausfuhren, die im Notfallverfahren abgewickelt werden sollen:Die Anmeldungen können auf Papier abgegeben werden, dazu sind die Vordrucke 033025 und ggfs. 033026 zu verwenden. Diese sind auf [www.zoll.de](http://www.zoll.de "http://www.zoll.de") bei Formulare und Merkblätter zu finden.*Es ist ein Stempel der Zollverwaltung erforderlich!*
 
-eine komplette Demo- / Test-Version ohne Zollkommunikation ist hier nun freigeschalten.Demnächst werden wir dazu Tutorials zur Verfügung stellen. Darüber informieren wir Sie in einer weiteren Mail.Bei Rückfragen zur neuen Softwäre berücksichtigen Sie bitte, dass Sie in der laufenden Woche mit einer Beta-Version arbeiten, die noch Fehler aufweißen kann.Zu den Eingabefeldern sind entsprechende Feldhilfen verfügbar.Bitte beachten Sie auch unbedingt das [Merkblatt zu Zollanmeldungen](https://proteria.us17.list-manage.com/track/click?u=d11c59bf6155c5ceb7791f918&amp;id=96b402aa93&amp;e=881803a0a3 "https://proteria.us17.list-manage.com/track/click?u=d11c59bf6155c5ceb7791f918&amp;id=96b402aa93&amp;e=881803a0a3") der Zollverwaltung.
+Die Ticket-Nr. lautet: INC000005470564Für die entstandenen Umstände entschuldigen wir uns.Mit freundlichen GrüßenIhr Proteria-TeamFür Hinweise/Hilfe zur neuen Software klicken Sie [hier](https://help.proteria.de/tutorials/prasentation-proteria-software-de "https://help.proteria.de/tutorials/prasentation-proteria-software-de"). Bitte beachten Sie die Eingabehilfen/Feldhilfen zu den jeweiligen Feldern am unteren Bildschirmrand, sowie das [Merkblatt zu Zollanmeldungen](https://proteria.us17.list-manage.com/track/click?u=d11c59bf6155c5ceb7791f918&amp;id=96b402aa93&amp;e=881803a0a3 "https://proteria.us17.list-manage.com/track/click?u=d11c59bf6155c5ceb7791f918&amp;id=96b402aa93&amp;e=881803a0a3") der Zollverwaltung.
 
-Bitte nutzen Sie bis Donnerstag, 23.11.23 für Ihre Ausfuhranmeldungen die aktuelle Software. Ab 21 Uhr wird das Senden dieser nicht mehr möglich sein. Zollseitige Nachrichten können noch bis Freitag, den 24.11., 12 Uhr empfangen werden. Das bedeutet für Kunden, die am Donnerstag eine Ausfuhranmeldung mit Gestellung ausserhalb des Amtsplatztes einstellen, sofern die Gestellungszeit vor 12 Uhr endet, dass sie das ABD, wie gewohnt, in [ProTeria.NET](http://ProTeria.NET "http://ProTeria.NET") erhalten werden.Zum Umstellungstermin werden wir die Datensätze aus dem Kunden-/Stammdaten- und Artikelregister nochmals aktualisieren. Das bedeutet, wenn Sie Ihre Daten pflegen wollen, tun Sie dies bitte weiterhin in der aktuellen Software, da Änderungen, die Sie in der Demo-Version vornehmen, zum Umstellungstermin überschrieben werden.
+***Beim Video zur Erläuterung der Software hat sich ein Fehler eingeschlichen, wir bitten um Entschuldigung:***
 
-Ab Montag, 27.11.23 ist das Senden von Ausfuhranmeldungen dann nur noch über die neue Lösung möglich. Die neue Software ist eine Online-Lösung, die Sie so weiterhin als Vollversion im Browser verwenden werden. Diese ersetzt den bisherigen downloadbaren Desktop-Client.
-
-Derzeit verzeichnen wir ein erhöhtes telefonisches Anfrageaufkommen, das wir nur schwerlich bewältigen können. Daher bitten wir Sie im Sinne einer schnellstmöglichen und effizienten Bearbeitung Ihrer Anliegens, Ihre Anfragen möglichst per mail mit möglichst präzisen Angaben Ihres Problems zu stellen.
-
-Bei Rückfragen zur neuen Softwäre berücksichtigen Sie bitte, dass Sie in der laufenden Woche mit einer Beta-Version arbeiten, die noch Fehler aufweißen kann
-
-Mit freundlichen GrüßenIhr Proteria-Team
-
-Die Registrierung erfolgt auf:[https://aesweb.proteria.com](https://aesweb.proteria.com%EF%BF%BC%EF%BF%BCDas "https://aesweb.proteria.com￼￼Das")Weiter unten auf dieser Seite finden Sie eine Anleitung mit Screenshot.
-
-Voraussichtlich Anfang November werden wir eine Demo-Version zur Verfügung stellen, so dass Sie sich mit der neuen Software vertraut machen können. Des weiteren werden wir Hilfestellung zur neuen Eingabemaske und den neuen Pflichtfeldern, die der Release-Wechsel zollseitig mit sich bringt, bereitstellen.
-
-Derzeit kommt es zu erhöhten Support-Anfragen. Wir sind bemüht, alle Anfragen schnellstmöglich zu beantworten, bitten jedoch um Ihr Verständnis, falls es etwas länger dauert, bis wir uns um Ihr Anliegen kümmern. Danke für Ihre Geduld!
-
-Wir entschuldigen uns für die Unannehmlichkeiten und freuen uns auf eine weitere gute und erfolgreiche Zusammenarbeit!Für Ihre Registrierung:[https://aesweb.proteria.com](https://aesweb.proteria.com%EF%BF%BC%EF%BF%BCDas "https://aesweb.proteria.com￼￼Das")Das Passwort können Sie frei wählen. Wenn Sie alle Registrierungsschritte durchgeführt haben und sich mit den Daten einloggen, werden Sie auf folgende Seite weitergeleitet:
-
-![grafik.png](../../images/posts/grafik.png)Bitte klicken Sie hier auf: Finde bestehende Proteria-Verknüpfungen. Wir werden anschließend die Benutzerrechte gewähren.Wir freuen uns auf die weitere angenehme Zusammenarbeit mit Ihnen!
+Beförderungsmittel beim Abgang: \"Identifikation des aktiven Beförderungsmittels, ***auf dem die Waren bei ihrer Gestellung bei der (Ausfuhr-) Zollstelle unmittelbar verladen sind***&amp;nbsp;und das Kennzeichen oder Nummer bzw. Namen sind anzugeben.\" <strong>D.h. es geht um den Transportweg vom Versand zur Grenze und nicht das Transportmittel am AUSGANG. </strong>Deshalb wäre das Beförderungsmittel beim Abgang schlüssig zum Inländischen Verkehrszweig zu wählen.
