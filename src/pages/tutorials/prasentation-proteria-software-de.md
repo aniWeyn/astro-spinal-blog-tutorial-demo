@@ -38,4 +38,4 @@ Verfahren bezieht sich auf die Verfahrensschritte im Exportprozess, und in unser
 [**Gehe zum Tutorial für Verfahren**](https://help.proteria.de/tutorials/verfahren "https://help.proteria.de/tutorials/verfahren")
 
 #### Schnittstelle
-[**Gehe zum Tutorial für Verfahren**](https://help.proteria.de/tutorials/schnittstelle "https://help.proteria.de/tutorials/schnittstelle")
+[**Gehe zum Tutorial für Schnittstelle**](https://help.proteria.de/tutorials/schnittstelle "https://help.proteria.de/tutorials/schnittstelle")
