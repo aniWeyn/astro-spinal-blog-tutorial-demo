@@ -2,9 +2,9 @@
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: UN/Locode
 pubDate: 2023-11-23T16:15
-description: 
+description: ''
 author: Anja Füger
-image: 
+image: ''
 ---
 
 **UN/LOCODE** (*United Nations Code for Trade and Transport Locations* „Ortscode der Vereinten Nationen für Handel und Transport“) ist ein Code für geographische Orte, der von derWirtschaftskommission für Europa (UNECE), einer Unterorganisation der Vereinten Nationen (UNO), entwickelt und aktualisiert wird.
