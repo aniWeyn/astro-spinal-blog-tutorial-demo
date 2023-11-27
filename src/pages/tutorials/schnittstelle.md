@@ -1,8 +1,8 @@
 ---
-layout: 
+layout: "../../layouts/MarkdownPostLayoutTutorial.astro"
 title: Schnittstelle
 pubDate: 2023-11-27T12:31
-author: 
+author: ''
 ---
 
 ## **Datenimport über Schnittstelle:**
