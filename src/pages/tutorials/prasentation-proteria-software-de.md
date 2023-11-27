@@ -36,3 +36,6 @@ Entdecken Sie unser Tutorial zu ‘Packstücken’, in dem wir praxisnahe Einbli
 Verfahren bezieht sich auf die Verfahrensschritte im Exportprozess, und in unserem Tutorial erfahren Sie, wie Sie diese entscheidenden Schritte geschickt navigieren und in unserer Software ausfüllen können
 
 [**Gehe zum Tutorial für Verfahren**](https://help.proteria.de/tutorials/verfahren "https://help.proteria.de/tutorials/verfahren")
+
+#### Schnittstelle
+[**Gehe zum Tutorial für Verfahren**](https://help.proteria.de/tutorials/schnittstelle "https://help.proteria.de/tutorials/schnittstelle")
