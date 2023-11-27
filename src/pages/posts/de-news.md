@@ -9,7 +9,7 @@ image: ''
 
 ## Herzlich willkommen zu unserem ersten Release!
 
-***!! Bitte beachten Sie aktuelle Hinweise auf unserer Info-Seite (s. Menü links) !!***
+<strong><em>!!! Bitte beachten Sie, dass derzeit die Zollkommunikation noch nicht freigeschalten ist. Wir arbeiten mit Hochdruck daran und informieren Sie, sobald das Senden von Ausfuhranmeldungen möglich ist. </em></strong>***Für die entstehenden Umstände entschuldigen wir uns.***
 
 In Anbetracht der kürzlich erfolgten und wichtigen Aktualisierungen im Exportrecht haben wir einen proaktiven Ansatz gewählt, um sicherzustellen, dass unsere Lösung nicht nur den neuesten Vorschriften entsprecht, sondern Ihnen auch eine Vielzahl neuer Vorteile bringt. Diese Veränderungen spiegeln unser unerschütterliches Engagement wieder, unseren Service für Sie weiter zu optimiern und unsere Geschäftsinteraktionen so reibungslos wie möglich zu gestalten.
 
