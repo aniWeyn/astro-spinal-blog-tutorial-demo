@@ -9,7 +9,7 @@ image: ''
 
 ## Herzlich willkommen zu unserem ersten Release!
 
-<strong><em>!!! Aktuelle Information, 28.11.23, 8.30 Uhr: </em></strong>***Ausfuhrbegleitdokumente und Ausgangsvermerke für Vorgänge, die in der bisherigen Software erstellt wurden und noch offen waren, sind in der neuen Software nun verfügbar.***<strong><em>Wir bedauern sehr, dass aufgrund unvorhergesehener technischer Schwierigkeiten im Hintergurnd die Zollkommunikation noch nicht konstant zuverlässig funktioniert. Unsere Techniker arbeiten mit allen verfügbaren Kräften an einer Lösung. </em></strong><strong><em>Wir gehen davon aus, dass das System im Laufe des Tages voll funktionsfähig wird. </em></strong>***Für die entstehenden Umstände entschuldigen wir uns vielmals und hoffen auf Ihr Verständnis.***
+<strong><em>!!! Aktuelle Information, 28.11.23, 9.00 Uhr: </em></strong>***Ausfuhrbegleitdokumente und Ausgangsvermerke für Vorgänge, die in der bisherigen Software erstellt wurden und noch offen waren, sind in der neuen Software nun verfügbar.***<strong><em>Wir bedauern sehr, dass aufgrund unvorhergesehener technischer Schwierigkeiten im Hintergurnd die Zollkommunikation noch nicht konstant zuverlässig funktioniert. Unsere Techniker arbeiten mit allen verfügbaren Kräften an einer Lösung. </em></strong><strong><em>Wir gehen davon aus, dass das System im Laufe des Tages voll funktionsfähig wird. </em></strong>***Für die entstehenden Umstände entschuldigen wir uns vielmals und hoffen auf Ihr Verständnis.***
 
 ***Informationen zum Notfallverfahren finden Sie auf der Info-Seite (Menüpunkt links).***
 
