@@ -9,7 +9,9 @@ image: ''
 
 ## Herzlich willkommen zu unserem ersten Release!
 
-<strong><em>!!! Aktuelle Information, 28.11.23, 9.00 Uhr: </em></strong><strong><em>Wir bedauern sehr, dass aufgrund unvorhergesehener technischer Schwierigkeiten im Hintergurnd die Zollkommunikation noch nicht konstant zuverlässig funktioniert. Unsere Techniker arbeiten mit allen verfügbaren Kräften an einer Lösung. </em></strong><strong><em>Wir gehen davon aus, dass das System im Laufe des Tages voll funktionsfähig wird. </em></strong>***Für die entstehenden Umstände entschuldigen wir uns vielmals und hoffen auf Ihr Verständnis.***<strong><em>Derzeit ist das Anfrageaufkommen sehr hoch, deshalb bitte wir Sie, uns Ihr Anliegen so präzise wie möglich per Mail zu senden an: </em></strong>[***info@proteria.de***](mailto:info@proteria.de "mailto:info@proteria.de")<strong><em> oder </em></strong>[***support@proteria.de***](mailto:support@proteria.de "mailto:support@proteria.de")***.***{::}***Wir sind bemüht, Ihr Anliegen so schnell wie möglich zu bearbeiten und bitten um Entschuldigung, für die zeitliche Verzögerung bei der Bearbeitung.***
+***!!! Aktuelle Information, 29.11.23, 11.00 Uhr:***
+
+***Wir bedauern aufrichtig, dass die Störung noch andauert und die Zolllkommunikation noch nicht freigeschalten ist. Derzeit gehen wir davon aus, dass diese im Laufe des Tages freigeschalten wird.***{::}***Für die Schwierigkeiten bei der Umstellung entschuldigen wir uns vielmals.***<strong><em>Derzeit ist das Anfrageaufkommen sehr hoch, deshalb bitte wir Sie, uns Ihr Anliegen so präzise wie möglich per Mail zu senden an: </em></strong>[***info@proteria.de***](mailto:info@proteria.de "mailto:info@proteria.de")<strong><em> oder </em></strong>[***support@proteria.de***](mailto:support@proteria.de "mailto:support@proteria.de")***.***{::}***Wir sind bemüht, Ihr Anliegen so schnell wie möglich zu bearbeiten und bitten um Entschuldigung, für die zeitliche Verzögerung bei der Bearbeitung.***
 
 ***Informationen zum Notfallverfahren finden Sie auf der Info-Seite (Menüpunkt links).***
 
