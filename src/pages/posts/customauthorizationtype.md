@@ -2,9 +2,9 @@
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: Bewilligung (Kopfebene) 
 pubDate: 2023-11-18T16:17
-description: 
+description: ''
 author: Anja Füger
-image: 
+image: ''
 ---
 
 Für die angezeigten Verfahren, sind die entsprechenden Bewilligungen zu hinterelgen:
