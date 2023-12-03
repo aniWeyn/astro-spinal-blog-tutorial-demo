@@ -9,9 +9,9 @@ image: ''
 
 ## Herzlich willkommen zu unserem ersten Release!
 
-***!!! Aktuelle Information, 29.11.23, 15.00 Uhr:***Sehr geehrte Kunden,mit dem allergrößten Bedauern müssen wir Ihnen mitteilen, dass wir die technischen Probleme beim Senden der Ausfuhranmeldungen in dieser Woche (KW 48) voraussichtlich nicht zuverlässig lösen können.Wir sind uns bewusst, dass dies, insbesondere für als Sie als unser Kunde, größte Herausforderungen mit sich bringt, dass wir Sie mit diesen Problemen konfrontieren. Leider bedeutet das auch für uns, dass das Anfrageaufkommen derartig gestiegen ist, dass wir vollkommen außerstande sind, zurzeit den gewohnten telefonischen Support leisten zu können. Ebenso betroffen ist der schriftliche Support, der nicht mehr zeitnah zu bewältigen ist. Wir bemühen uns dennoch, Ihre Anfragen zu beantworten, so gut es uns möglich ist, es kann jedoch zu langen Wartezeiten kommen. Wir sind uns bewusst, dass dies manche von Ihnen in große Bedrängnis bringen kann. Wir entschuldigen uns nochmal ausdrücklich an dieser Stelle hierfür. Natürlich hoffen wir, Ihnen schnellstmöglich wieder den gewohnten Service bieten zu können.Außerhalb der Zollkommunikation steht die Software weiterhin zur Verfügung, Vorgänge können soweit vorbereitet werden, dass diese, sobald das Senden möglich ist, versendet werden können.Hilfestellungen (Tutorials) finden Sie [hier](https://help.proteria.de/tutorials/prasentation-proteria-software-de "https://help.proteria.de/tutorials/prasentation-proteria-software-de"). Wir erweitern diese nach Möglichkeit, so dass Sie zunehmend detaillierte Anleitungen erhalten.Wir bedauern diesen holprigen Start in das neue Atlas-Ausfuhr Release AES Release 3.0, der in Zeiten sehr dynamischer digitaler Anforderungen tiefgreifende Umprogrammierungen erforderlich machte, die zu dieser schwierigen Situation führten.
+***!!! Aktuelle Information, 03.12.23, 21.30 Uhr:***Sehr geehrte Kunden,wir freuen uns, Ihnen mitteilen zu können, dass die technischen Probleme behoben sind und das Senden der Ausfuhranmeldungen nun uneingeschränkt möglich ist.Für die entstandenen Unannehmlichkeiten bitten wir nochmals vielmals um Entschuldigung.
 
-Die Ticket-Nummer für das Notfallverfahren lautet: **INC000005470564**
+
 
 ***Informationen zum Notfallverfahren finden Sie auf der Info-Seite (Menüpunkt links).***
 
