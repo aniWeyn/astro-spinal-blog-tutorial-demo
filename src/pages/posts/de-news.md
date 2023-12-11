@@ -9,7 +9,9 @@ image: ''
 
 ## Herzlich willkommen zu unserem ersten Release!
 
-***!!! Aktuelle Information, 05.12.23:***Tutorials zur neuen Software finden Sie unter:[https://www.youtube.com/@proteria1994](https://www.youtube.com/@proteria1994 "https://www.youtube.com/@proteria1994")
+***!!! Aktuelle Information, 11.12.23:***
+
+***Um 12.30 Uhr ist die Software für wenigen Minuten nicht verfügbar. Es wird ein Update eingespielt, welches die Eingabe der Referenz für Unterlagen wieder möglich macht.***<strong><em>Wir bitten um Ihr Verständnis und entschuldigen uns für die Unannehmlichkeiten. </em></strong>Tutorials zur neuen Software finden Sie unter:[https://www.youtube.com/@proteria1994](https://www.youtube.com/@proteria1994 "https://www.youtube.com/@proteria1994")
 
 In Anbetracht der kürzlich erfolgten und wichtigen Aktualisierungen im Exportrecht haben wir einen proaktiven Ansatz gewählt, um sicherzustellen, dass unsere Lösung nicht nur den neuesten Vorschriften entsprecht, sondern Ihnen auch eine Vielzahl neuer Vorteile bringt. Diese Veränderungen spiegeln unser unerschütterliches Engagement wieder, unseren Service für Sie weiter zu optimiern und unsere Geschäftsinteraktionen so reibungslos wie möglich zu gestalten.
 
