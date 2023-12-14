@@ -9,7 +9,9 @@ image: ''
 
 ## Herzlich willkommen zu unserem ersten Release!
 
-Tutorials zur neuen Software finden Sie unter:[https://www.youtube.com/@proteria1994](https://www.youtube.com/@proteria1994 "https://www.youtube.com/@proteria1994")
+## **!!!! Aktuelle Info: 14.12.23, 9.40 Uhr:**
+
+Derzeit liegt eine Störung bei der Zollverwaltung vor.Es ist noch nicht bekannt, wie lange diese andauern wird, ein Master-Ticket wurde zollseitig noch nicht eröffnet. Tutorials zur neuen Software finden Sie unter:[https://www.youtube.com/@proteria1994](https://www.youtube.com/@proteria1994 "https://www.youtube.com/@proteria1994")
 
 In Anbetracht der kürzlich erfolgten und wichtigen Aktualisierungen im Exportrecht haben wir einen proaktiven Ansatz gewählt, um sicherzustellen, dass unsere Lösung nicht nur den neuesten Vorschriften entsprecht, sondern Ihnen auch eine Vielzahl neuer Vorteile bringt. Diese Veränderungen spiegeln unser unerschütterliches Engagement wieder, unseren Service für Sie weiter zu optimiern und unsere Geschäftsinteraktionen so reibungslos wie möglich zu gestalten.
 
