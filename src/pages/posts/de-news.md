@@ -9,9 +9,7 @@ image: ''
 
 ## Herzlich willkommen zu unserem ersten Release!
 
-
-
-![Decorative image of Christmas tree](images/posts/Weihnachtsmotiv1.jpg)
+![Weihnachtsmotiv1-4c8d10.jpg](images/posts/Weihnachtsmotiv1-4c8d10.jpg)
 
 ## Tutorials zur neuen Software finden Sie unter:[https://www.youtube.com/@proteria1994](https://www.youtube.com/@proteria1994 "https://www.youtube.com/@proteria1994") 
 
