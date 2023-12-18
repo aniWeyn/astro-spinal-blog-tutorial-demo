@@ -7,14 +7,8 @@ author: Anja Füger
 image: ''
 ---
 
-![Decorative image of Christmast Tree](../../images/posts/Weihnachtsmotiv1.jpg)
+## ***Für die Zusammenarbeit in diesem Jahr bedanken wir uns recht herzlich.Wir wünschen Ihnen schöne und geruhsame Weinachtstage sowie ein gutes, erfolgreiches und gesundes neues Jahr!***
 
-***Für die Zusammenarbeit in diesem jahr bedanken wir uns recht herzlich.
-Wir wünschen Ihnen schöne und geruhsame Weinachtstage sowie ein gutes, erfolgreiches und gesundes neues Jahr!***
+**Vom 27.-29. Dezember haben wir Betriebsferien. Selbstverständlich sorgen wir dafür, dass der Betrieb des Systems gewährleistet ist.**
 
-**Vom 27.-29. Dezember haben wir Betriebsferien. 
-Selbstverständlich sorgen wir dafür, dass der Betrieb des Systems gewährleistet ist.**
-
-#### Tutorials zur neuen Software finden Sie unter:
-[https://www.youtube.com/@proteria1994](https://www.youtube.com/@proteria1994 "https://www.youtube.com/@proteria1994") 
-
+## Tutorials zur neuen Software finden Sie unter:[https://www.youtube.com/@proteria1994](https://www.youtube.com/@proteria1994 "https://www.youtube.com/@proteria1994")
