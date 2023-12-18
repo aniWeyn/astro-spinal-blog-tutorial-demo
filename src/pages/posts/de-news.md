@@ -9,7 +9,7 @@ image: ''
 
 ## Herzlich willkommen zu unserem ersten Release!
 
-![Decorative image of Christmast Tree](images/posts/Weihnachtsmotiv1.jpg)
+![Decorative image of Christmast Tree](../../images/posts/Weihnachtsmotiv1.jpg)
 
 ## Tutorials zur neuen Software finden Sie unter:[https://www.youtube.com/@proteria1994](https://www.youtube.com/@proteria1994 "https://www.youtube.com/@proteria1994") 
 
