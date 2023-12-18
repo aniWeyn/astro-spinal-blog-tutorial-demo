@@ -1,10 +1,10 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: Registriernummer (extern) (Positionsebene)
-pubDate: 2023-10-18T14:26
-description: ''
+title: Registriernummer (extern) (Kopfebene)
+pubDate: 2023-12-02T15:26
+description: 
 author: Anja Füger
-image: ''
+image: 
 ---
 
 Dem Ersteller der Anmeldung bekannte Registriernummer eines Systems am Ausgang, z.B. Luftfrachtbrief- oder Hafensystem-Nummer.Die Angabe auf Kopf- und Positionsebene schließen sich gegenseitig aus.

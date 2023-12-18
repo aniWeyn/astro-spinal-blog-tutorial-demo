@@ -7,7 +7,7 @@ author: Anja Füger
 image: ''
 ---
 
-Als Ausführer ist die natürliche oder juristische Person, welche im Zollgebiet der Union ansässig ist und über das Verbringen der Ware die Bestimmungsbefugnis besitzt und diese auch ausübt Die Befugnis, über das Verbringen zu bestimmen, kann grundsätzlich übertragen werden,um den Wirtschaftsbeteiligten eine größere Flexibilität bei der Vereinbarung des zollrechtlichen Ausführers zu bieten.
+Als Ausführer ist die natürliche oder juristische Person, welche im Zollgebiet der Union ansässig ist und über das Verbringen der Ware die Bestimmungsbefugnis besitzt und diese auch ausübt. Die Befugnis, über das Verbringen zu bestimmen, kann grundsätzlich übertragen werden,um den Wirtschaftsbeteiligten eine größere Flexibilität bei der Vereinbarung des zollrechtlichen Ausführers zu bieten.
 
 Im Gegensatz zur früheren Regelung ist es nicht mehr erforderlich, dass der AusführerVertragspartner des Empfängers im Drittland ist. Damit unterscheidet sich nunmehr der zollrechtliche Ausführerbegriff vom außenwirtschaftsrechtlichen gemäß § 2 Abs. 2 Außenwirtschaftsgesetz (AWG) bzw. Artikel 2 Nr. 3 VO (EU) 2021/821 (EU-Dual-Use-VO) und dem außenhandelsstatistischen gemäß Anhang V Abschnitt 6 Absatz 1 DVO (EU) 2020/1197 bzw. § 2 Absatz 20 AHStatG, der weiter an die Stellung als Vertragspartner des Ausfuhrvertrages anknüpft.
 
