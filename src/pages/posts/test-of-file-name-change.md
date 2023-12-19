@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
-title: Test of file name change
+title: New test file name
 pubDate: 2023-12-19T09:22
 description: 
 author: Anja Füger
