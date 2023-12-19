@@ -1,12 +1,29 @@
 ---
 layout: "../../layouts/MarkdownPostLayout.astro"
 title: D.E. 11 07 000 000 - Sicherheit
-pubDate: 2023-11-09T07:07
+pubDate: '2023-09-20T12:24:38'
 description: ''
-author: Anja Füger
+author: Anja
 image: ''
+tags: ["astro", "blogging", "learning in public"]
 ---
 
-Mittels des Kennzeichens „Sicherheit“ ist verpflichtend anzumelden, ob die Ausfuhranmeldung alle sicherheitsrelevanten Daten (= Daten der summarischen Ausgangsanmeldung) enthält: **„0“ – Ausfuhranmeldung enthält nicht die sicherheitsrelevanten Daten „2“ – Ausfuhranmeldung enthält die sicherheitsrelevanten Daten**
+Mittels des Kennzeichens „Sicherheit“ ist verpflichtend anzumelden, ob die Ausfuhranmeldung alle sicherheitsrelevanten Daten enthält:„0“ - Ausfuhranmeldung enthält **nicht** die sicherheitsrelevanten Daten
 
-Sicherheitsrelevante Daten:D.E. 13 12 000 000 Beförderer D.E. 16 12 000 000 Beförderungsroute D.E. 12 05 000 000 TransportdokumentD.E. 18 07 055 000 4-stellige Gefahrgutgutnummer, wenn gefährliche Güter nach den einschlägigen Transportvorschriften ausgeführt werdenD.E.11 04 000 000 Kennnummer für besondere Umstände „A20“ (reduzierter Datensatz für eine Expressgutsendung - ***nur von entsprechenden Versand-Dienstleistern zu verwenden!!***Die Sicherheitsrelevanten Daten müssen **nicht** angegeben werden bei:CO - Warenverkehr mit den umsatzsteuerrechtlichen SondergebietenEX - Schweiz, Liechtenstein, Norwegen, AndorraEX - in folgenden Fällen: z.B. Reiseverkehr, Schiffs- und Luftfahrzeugbedarf, Offshore-Anlagen, Ceuta, Melilla, Gibraltar, Helgoland, Livigno, San Marino, Vatikanstadt, etc. (Art. 245 UZK-DA)***Für alle anderen Fälle sind die sicherheitsrelevanten Daten anzugeben! Falls diese nicht angegeben sind, kann es passieren, dass die Sendung an der Ausgangszollstelle nicht abgefertigt wird, bis eine summarische Ausgangsanmeldung erfolgt!***
+„2“ - Ausfuhranmeldung enthält die sicherheitsrelevanten Daten
+
+Sicherheitsrelevante Daten sind:
+
+D.E. 11 04 000 000 Kennummer für besondere Umstände „A20“ (reduzierter Datensatz für eine Expressgutsendung)
+
+D.E. 13 12 000 000 Beförderer
+
+D.E. 16 12 000 000 von der Sendung zu durchfahrende Länder
+
+D.E. 18 07 055 000 4-stellige Gefahrgutnummer, wenn gefährliche Güter nach den einschlägigen Transportvorschriften ausgeführt werden
+
+„0“ - Ausfuhr kann in folgenden Fällen ohne die sicherheitsrelevanten Daten angemeldet werden:CO – Warenverkehr mit den umsatzsteuerrechtlichen SondergebietenEX – in Länder: Schweiz, Liechtenstein, Norwegen, AndorraEX – Reiseverkehr, Schiffs- und Luftfahrzeugbedarf, Waren für Offshore-Anlagen, Ceuta, Melilla, Gibraltar, Helgoland, Livigno, San Marino, Vatikanstadt
+
+***Ausfuhranmeldungen, bei denen zu Unrecht die Angabe „0“ festgestellt wird, können von der Ausfuhrzollstelle nicht angenommen und überlassen werden.***
+
+***Sofern die Ausgangszollstelle im Rahmen der Überwachung unzulässigerweise Waren ohne die erforderlichen sicherheitsrelevanten Daten feststellen, wird die Ware an der Ausgangszollstelle möglicherweise nicht abgefertigt!***
