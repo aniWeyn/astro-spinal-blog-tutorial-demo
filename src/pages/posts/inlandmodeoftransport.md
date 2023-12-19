@@ -7,8 +7,6 @@ author: Anja Füger
 image: ''
 ---
 
-Hier ist unter Benutzung einer der nachfolgenden Codes der genutzte Verkehrszweig entsprechend des Beförderungsmittels innerhalb des Zollgebietes der Union anzugeben. ***Diese Angabe braucht nicht übermittelt werden, wenn die Ausfuhrförmlichkeiten bei der Ausgangszollstelle erfüllt werden, im sog. einstufigen Verfahren.***
+Hier ist unter Benutzung einer der nachfolgenden Codes der genutzte Verkehrszweig entsprechend des Beförderungsmittels innerhalb des Zollgebietes der Union anzugeben. <strong><em>Diese Angabe braucht nicht übermittelt werden, wenn die Ausfuhrförmlichkeiten bei der Ausgangszollstelle erfüllt werden, im sog. einstufigen Verfahren. </em></strong>
 
-1 - Seeverkehr2 - Eisenbahnverkehr3 - Straßenverkehr4 - Luftverkehr5 - Postsendungen7 - Fest installierte Transporteinrichtungen1)8 - Binnenschifffahrt9 - Eigener Antrieb2)
-
-Anmerkungen:1) z. B. Rohrleitungen2) Beförderungsmittel, die selbst Gegenstand eines Handelsgeschäfts sind und mit eigener Kraft den Ort der Gestellung verlassen
+1 - Seeverkehr2 - Eisenbahnverkehr3 - Straßenverkehr4 - Luftverkehr5 - Postsendungen7 - Fest installierte Transporteinrichtungen1)8 - Binnenschifffahrt9 - Eigener Antrieb2)Anmerkungen:1) z. B. Rohrleitungen2) Beförderungsmittel, die selbst Gegenstand eines Handelsgeschäfts sind und mit eigener Kraft den Ort der Gestellung verlassen
