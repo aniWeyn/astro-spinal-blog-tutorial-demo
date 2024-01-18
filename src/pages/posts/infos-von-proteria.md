@@ -11,7 +11,7 @@ Das Update vom 19.01.2024 enthält:
 
 * «Neue Anmeldung» links im Hauptmenü erstellt nun die Anmeldung auf Basis der Standardvorlage. Ist keine Vorlage vorhanden oder keine als „Standard“ markiert, wird eine leere Anmeldung erstellt.
 
-* Übersicht der Vorlagen zeigt nun nur Benutzer-eigene Vorlagen (nicht mehr alle der gesamte Firma)
+* Übersicht der Vorlagen zeigt nun nur Benutzereigene Vorlagen (nicht mehr alle der gesamte Firma)
 
 * Beim Senden von ergänzenden Anmeldungen oder eines „Nachtrags zur Anmeldung“ wird nun der Status „letzte Nachricht“ in der Übersicht direkt, sofort aktualisiert.
 
@@ -35,4 +35,4 @@ Das Update vom 19.01.2024 enthält:
 
 * Verbesserung: Das Verhalten und Design von Drop-Down Eingabefeldern die über TAB aktivert werden, wurde leicht verbessert
 
-<strong><em>Ausfuhrbegleitdokumente für Vorgänge, die in der bisherigen Software erstellt wurden und noch nicht überlassen waren sowie Ausgangsvermerke für Vorgänge, die in der bisherigen Software erstellt wurden und noch offen waren, sind in der neuen Software verfügbar. </em></strong>***Diese sind in der Übersicht unter “Besitzer” “Alle Vorgänge im Unternehmen\" abrufbar.***
+<strong><em>Ausgangsvermerke und Nachrichten zum Warenverbleib für Vorgänge, die noch in der alten Software erstellt wurden, sind in der neuen Software verfügbar: </em></strong>***Diese sind in der Übersicht unter “Besitzer” “Alle Vorgänge im Unternehmen\" abrufbar.***
