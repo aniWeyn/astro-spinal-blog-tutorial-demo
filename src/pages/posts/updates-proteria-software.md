@@ -7,3 +7,32 @@ author: Anja Füger
 image: 
 ---
 
+19\.01.2024
+
+* Versenden von Nachrichten zum Warenverbleib jetzt uneingeschränkt möglich (eigene Plausibilitätsprüfung derselben wird innerhalb weniger Tage verfügbar sein)
+
+* «Neue Anmeldung» links im Hauptmenü erstellt nun die Anmeldung auf Basis der Standardvorlage. Ist keine Vorlage vorhanden oder keine als „Standard“ markiert, wird eine leere Anmeldung erstellt.
+
+* Übersicht der Vorlagen zeigt nun nur Benutzer-eigene Vorlagen (nicht mehr alle der gesamte Firma)
+
+* Beim Senden von ergänzenden Anmeldungen oder eines „Nachtrags zur Anmeldung“ wird nun der Status „letzte Nachricht“ in der Übersicht direkt, sofort aktualisiert.
+
+* Behoben: Löschen von Unterlagen zeigte hängende „Laden..“-Icon
+
+* Behoben: Fehlermeldung beim Versuch ABD/AV aus alte ATLAS-2.4 Vorgänge zu öffnen. Solche Vorgänge haben oft die PDF (noch) im alten System, daher kann es sein, dass die pdf im neuen System nicht verfügbar ist.
+
+* Behoben: Fehlende Darstellung von Ausgangszollstelle und E-Mail-Adressen in der Ansicht einer Anmeldung im „Nur-Lesen“-Modus
+
+* Neu: Vorlage kopieren
+
+* Verbesserung: Lange Datenfelder in der Übersicht werden jetzt gekürzt dargetellt
+
+* Verbesserung: Im Kontaktregister (bei Eingabe, Änderung) kann das Land jetzt auch nach Ländername (nicht nur Code) gesucht werden
+
+* Verbesserung: Eigene Farbdarstellung (orange) von Vorgängene die Fehler-Antworten erhalten haben
+
+* Verbesserung: Warenposition-&gt;Ursprungsbundesland wird jetzt automatisch auf 99 gesetzt, wenn Warenposition-&gt;Ursprungsland ungleich Deutschland ist
+
+* Behoben: „Warenposition-&gt;Ergänzende Masseinheit bleibt auf allen Positionen rot markiert, wenn eine Position einen Plausibilitätsfehler erhält
+
+* Verbesserung: Das Verhalten und Design von Drop-Down Eingabefeldern die über TAB aktivert werden, wurde leicht verbessert
