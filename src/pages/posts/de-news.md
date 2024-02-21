@@ -7,7 +7,7 @@ author: Anja Füger
 image: ''
 ---
 
-## !!! 21.02.24: 9.40 Uhr, Fehler behobenBitte die Vorgänge mit den duplizierten Daten nicht weiter bearbeiten, kopieren oder löschen. Bitte erfassen Sie die Anmeldung neu.Für die entstandenen Unannehmlichkeiten entschuldigen wir uns!
+## !!! 21.02.24: 9.40 Uhr, Fehler behobenBitte die Vorgänge mit den duplizierten Daten nicht weiter bearbeiten oder kopieren. Bitte löschen Sie diese Vorgänge und erfassen Sie Ihre Anmeldung neu.Für die entstandenen Unannehmlichkeiten entschuldigen wir uns!
 
 
 
