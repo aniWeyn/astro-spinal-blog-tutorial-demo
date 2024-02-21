@@ -7,7 +7,7 @@ author: Anja Füger
 image: ''
 ---
 
-## 21.02.24: 9.00 Uhr, Fehler in der SoftwareDerzeit tritt ein Fehler in der Software auf, die Warenpositionen duplizieren sich.Wir arbeiten mit Hochdruck an der Behebnung des Fehlers. Können jedoch zum jetzigen Zeitpunkt noch nicht abschätzen, bis wann dieser behoben sein wird.Für die entstandenen Unannehmlichkeiten entschuldigen wir uns!
+## !!! 21.02.24: 9.40 Uhr, Fehler behobenBitte die Vorgänge mit den duplizierten Daten nicht weiter bearbeiten, kopieren oder löschen. Bitte erfassen Sie die Anmeldung neu.Für die entstandenen Unannehmlichkeiten entschuldigen wir uns!
 
 
 
