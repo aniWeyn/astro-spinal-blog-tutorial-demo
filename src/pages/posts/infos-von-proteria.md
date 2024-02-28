@@ -7,7 +7,7 @@ author: Anja Füger
 
 ## 02/24: Informationen zu Warenverkehrsbescheinigung EUR.1 in die Schweiz:
 
-**Seit Anfang 2024 erhebt die Schweiz keine Einfuhrzölle auf Industrieprodukte mehr. Präferenznachweise sind dennoch in einigen Fällen erforderlich. **
+Seit Anfang 2024 erhebt die Schweiz keine Einfuhrzölle auf Industrieprodukte mehr. Präferenznachweise sind dennoch in einigen Fällen erforderlich. 
 
 Ziel ist es, den Import von Industrieprodukten zu erleichtern und Schweizer Unternehmen einen günstigeren Zugang zu Vorprodukten aus Drittländern zu ermöglichen. Mit der Änderung des Zolltarifgesetzes schafft die Schweiz Zölle für sämtliche Industrieprodukte ab. Ausgenommen sind einige Waren der Kapitel 35 (Eiweißstoffe, modifizierte Stärke, Klebstoffe, Enzyme) und 38 (verschiedene Erzeugnisse der chemischen Industrie), die als Agrarprodukte klassifiziert sind. 
 
