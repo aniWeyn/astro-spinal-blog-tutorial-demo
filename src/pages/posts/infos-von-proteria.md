@@ -7,7 +7,7 @@ author: Anja Füger
 
 **29.02.24:Wichtige Information zum Modul SLP-SanktionsListenPrüfung**
 
-Unsere Firma ist derzeit im Gespräch mit unserem Anbieter der Sanktionslisten, wie das  Modul SanktionsListenPrüfung in die neue Software am besten integriert werden kann und erwarten innerhalb der nächsten 6 Wochen alle diesbezügliche Fragen geklärt zu haben. Wir informieren Sie umgehend, sobald ausreichend Klarheit besteht.
+derzeit ist unsere Firma im Gespräch mit unserem Anbieter der Sanktionslisten, wie das  Modul SanktionsListenPrüfung in die neue Software am besten integriert werden kann und erwarten innerhalb der nächsten 6 Wochen alle diesbezügliche Fragen geklärt zu haben. Wir informieren Sie umgehend, sobald ausreichend Klarheit besteht.
 
 ## 02/24: Informationen zu Warenverkehrsbescheinigung EUR.1 in die Schweiz:
 
