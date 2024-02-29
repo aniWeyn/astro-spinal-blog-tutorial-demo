@@ -7,6 +7,8 @@ author: Anja Füger
 image: ''
 ---
 
+#### Neuigkeiten zum Modul SLP sind in der Rubrik \"Infos\" (Button links im Menü) zu finden.
+
 #### 12.02.24: Angabe Kennzeichen Verkehrszweig an der Grenze:In den letzten Tag kommt es häufig zu Ablehnungen von Anmeldungen, wenn im Feld Verkehrszweig an der Grenze das Kennzeichen mit \"UNBEKANNT\" angegeben wurde. Um Ablehnungen oder Probleme bei der Abfertigung am Ausgang zu vermeiden, soll das Verkehrsmittel eingetragen werden LKW, FLUGZEUG oder SCHIFF(analog Feld Inländischer Verkehrszweig) 
 
 
