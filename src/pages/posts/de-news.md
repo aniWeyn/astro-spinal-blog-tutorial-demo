@@ -7,11 +7,13 @@ author: Anja Füger
 image: ''
 ---
 
+### !!! Dringende Wartungsarbeiten von Freitag, 05.04.24, 18 Uhr - Sonntag, 07.04.24 23 Uhr.Aufgrund von dringenden Wartungsarbeiten steht während des o.g. Zeitraums die Zollkommunikation nicht zur Verfügung. !!!
+
+
+
 #### Neuigkeiten zum Modul SLP sind in der Rubrik \"Infos\" (Button links im Menü) zu finden.
 
-#### 12.02.24: Angabe Kennzeichen Verkehrszweig an der Grenze:In den letzten Tag kommt es häufig zu Ablehnungen von Anmeldungen, wenn im Feld Verkehrszweig an der Grenze das Kennzeichen mit \"UNBEKANNT\" angegeben wurde. Um Ablehnungen oder Probleme bei der Abfertigung am Ausgang zu vermeiden, soll das Verkehrsmittel eingetragen werden LKW, FLUGZEUG oder SCHIFF(analog Feld Inländischer Verkehrszweig) 
-
-
+#### 
 
 ### Tutorials zur neuen Software finden Sie unter:
 
