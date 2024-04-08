@@ -7,10 +7,6 @@ author: Anja Füger
 image: ''
 ---
 
-### !!! Dringende Wartungsarbeiten von Freitag, 05.04.24, 18 Uhr - Sonntag, 07.04.24 23 Uhr.Aufgrund von dringenden Wartungsarbeiten steht während des o.g. Zeitraums die Zollkommunikation nicht zur Verfügung. Die Ticket-Nr. für das Notfallverfahren lautet: 5762803 !!!
-
-
-
 #### Neuigkeiten zum Modul SLP sind in der Rubrik \"Infos\" (Button links im Menü) zu finden.
 
 #### 
