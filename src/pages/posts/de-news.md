@@ -7,9 +7,7 @@ author: Anja Füger
 image: ''
 ---
 
-## !!! 11.04.24, 10.45 Uhr:Der Fehler ist behoben.
-
-## Für die entstehenden Unannehmlichkeiten entschuldigen wir uns. !!!
+12\.04.24:Wir haben ein Software-Update durchgeführt. Informationen dazu finden Sie links unter \"Info\".
 
 #### Neuigkeiten zum Modul SLP sind in der Rubrik \"Infos\" (Button links im Menü) zu finden.
 
