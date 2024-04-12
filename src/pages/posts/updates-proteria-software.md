@@ -7,6 +7,24 @@ author: Anja Füger
 image: 
 ---
 
+11\.04.24:
+
+* Möglichkeit zur Erstellung einer monatlichen Anschreibeliste / Monatsbericht
+
+* Möglichkeit zum Download des Logbuchs zum Nachrichtentausch
+
+* Vorlage definiert jetzt auch welche Datengruppen beim Erstellen einer neuen Anmeldung geöffnet/geschlossen sein sollen
+
+* Behoben: App-Crash beim Drucken auf Grund aktivierter Popup-Blocker
+
+* Datengruppen PV/AV/Zolllager auf Positionsebenen können jetzt durch einfachen Button \"bereinigt\" werden, auch wenn man nicht (mehr) das entsprechende Verfahren gewählt hat
+
+* csv Berichte / Exports wurden erweitert mit Daten: Ausführer-Name, Ausführer-EORI, Anmelder-EORI
+
+* Behoben: Backend-Timeouts der Anmeldedatenführten ab und zu zu Fehlern bei Abfrage von Kontakten oder Artikeln
+
+* 
+
 19\.01.2024
 
 * Versenden von Nachrichten zum Warenverbleib jetzt uneingeschränkt möglich (eigene Plausibilitätsprüfung derselben wird innerhalb weniger Tage verfügbar sein)
