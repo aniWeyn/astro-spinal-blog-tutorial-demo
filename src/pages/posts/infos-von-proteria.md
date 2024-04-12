@@ -5,6 +5,22 @@ pubDate: '2023-09-28T13:52:41'
 author: Anja Füger
 ---
 
+11\.04.24: Software Update, folgende Updates wurden eingespielt:
+
+* Möglichkeit zur Erstellung einer monatlichen Anschreibeliste / Monatsbericht
+
+* Möglichkeit zum Download des Logbuchs zum Nachrichtentausch
+
+* Vorlage definiert jetzt auch welche Datengruppen beim Erstellen einer neuen Anmeldung geöffnet/geschlossen sein sollen
+
+* Behoben: App-Crash beim Drucken auf Grund aktivierter Popup-Blocker
+
+* Datengruppen PV/AV/Zolllager auf Positionsebenen können jetzt durch einfachen Button \"bereinigt\" werden, auch wenn man nicht (mehr) das entsprechende Verfahren gewählt hat
+
+* csv Berichte / Exports wurden erweitert mit Daten: Ausführer-Name, Ausführer-EORI, Anmelder-EORI
+
+* Behoben: Backend-Timeouts der Anmeldedatenführten ab und zu zu Fehlern bei Abfrage von Kontakten oder Artikeln
+
 **29.02.24:Wichtige Information zum Modul SLP-SanktionsListenPrüfung**
 
 derzeit ist unsere Firma im Gespräch mit unserem Anbieter der Sanktionslisten, wie das  Modul SanktionsListenPrüfung in die neue Software am besten integriert werden kann und erwarten innerhalb der nächsten 6 Wochen alle diesbezügliche Fragen geklärt zu haben. Wir informieren Sie umgehend, sobald ausreichend Klarheit besteht.
