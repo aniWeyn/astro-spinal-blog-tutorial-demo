@@ -7,7 +7,7 @@ author: Anja Füger
 image: ''
 ---
 
-## !!! 02.05.24: 8:50 UhrBei der Zollverwaltung liegt eine Verzögerung im Nachrichtenverkehr vor.Wir haben keine Informationen, wann die Störung behoben sein wird.
+## !!! 02.05.24: 8:50 UhrBei der Zollverwaltung liegt eine Verzögerung im Nachrichtenverkehr vor:derzeit kommt es im IT- Verfahren ATLAS Ausfuhr zu Verzögerungen im Nachrichtenverkehr.Die Masterticketnummer lautet: INC000005822537.An der Behebung der Störung wird mit Hochdruck gearbeitet.Wir informieren Sie, sobald die Probleme behoben sind. Mit freundlichen GrüßenIhr Applikationsbetrieb ATLAS und EMCS\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Referat IV A 3 - Applikationsbetrieb Zoll
 
 
 
