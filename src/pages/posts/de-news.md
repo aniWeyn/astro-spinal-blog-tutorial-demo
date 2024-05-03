@@ -13,6 +13,14 @@ Aktuell liegt eine Störung bei uns vor, so dass keine Ausfuhranmeldungen an den
 
 Die Ticket-Nummer für das Notfallverfahren lautet: INC000005825093
 
+Wenn eine Anmeldung über Proteria nicht möglich ist, haben Sie folgende Alternativen:
+
+* Anmeldung im sog. Notfallverfahren. Sie können die Anmeldung auf Papier abgeben, dazu müssen Sie die Vordrucke 033025 und ggfs. 033026 verwenden:[https://www.zoll.de/SiteGlobals/Forms/Suche/FormulareMerkblaetter\_Formular.html;jsessionid=E9BBABAA7B062530FD0C63716BBAF5FF.internet671?nn=307304Die](https://www.zoll.de/SiteGlobals/Forms/Suche/FormulareMerkblaetter_Formular.html;jsessionid=E9BBABAA7B062530FD0C63716BBAF5FF.internet671?nn=307304%EF%BF%BC%EF%BF%BCDie "https://www.zoll.de/SiteGlobals/Forms/Suche/FormulareMerkblaetter_Formular.html;jsessionid=E9BBABAA7B062530FD0C63716BBAF5FF.internet671?nn=307304￼￼Die") Ticket-Nummer ist auf dem Formular einzutragen.Es muss ein Ausdruck erfolgen, der von Ihrem Zollamt abgestempelt werden muss!
+
+* Elektronische Anmeldung über die IAA-Plus. Dies ist die kostenlose Software, die die Zollverwaltung zur Verfügung stellt. Sie benötigen dafür ein Elster-Zertifikat
+
+* Sie beauftragen einen Dienstleister, der die Ausfuhranmeldung für Sie erstellt.
+
 
 
 12\.04.24:Wir haben ein Software-Update durchgeführt. Informationen dazu finden Sie links unter \"Info\".
