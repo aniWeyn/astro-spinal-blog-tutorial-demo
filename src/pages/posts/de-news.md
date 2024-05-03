@@ -7,7 +7,11 @@ author: Anja Füger
 image: ''
 ---
 
-## !!! 02.05.24: 13.20 UhrDie Verzögerung bei der Zollverwaltung ist behoben. 
+## !!! 03.05.24: 8:50 UhrStörung bei Proteria
+
+Aktuell liegt eine Störung bei uns vor, so dass keine Ausfuhranmeldungen an den Zoll weitergeleitet werden.Wir arbeiten mit Hochruck daran, die Verfügbarkeit wieder herzustellen. Zum jetzigen Zeitpunkt können wir leider noch nicht abschätzen, wie lange die Störung andauern wird.Für die entstehenden Umstände entschuldigen wir uns.
+
+Die Ticket-Nummer für das Notfallverfahren lautet: INC000005825093
 
 
 
