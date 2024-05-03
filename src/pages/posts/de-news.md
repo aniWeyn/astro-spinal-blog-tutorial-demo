@@ -9,7 +9,7 @@ image: ''
 
 ## !!! 03.05.24: 10.15 UhrStörung bei Proteria
 
-Aktuell liegt eine Störung bei uns vor, so dass keine Ausfuhranmeldungen an den Zoll weitergeleitet werden und wir auch keine Nachrichten empfangen.Die Ursache wurde lokalisiert, sehr wahrscheinlich haben die Unwetter gestern unsere Leitung bei der Telekom beschädigt. Zusammen mit der Telekom arbeiten wir mit Hochdruck an der Beseitigung der Störung.Ausfuhranmeldungen können gesendet werden, sobald die Leitung zum Zoll wieder frei ist, werden die Anmeldungen automatisch übermittelt.Wir arbeiten mit Hochruck daran, die Verfügbarkeit wieder herzustellen. Zum jetzigen Zeitpunkt können wir leider noch nicht abschätzen, wie lange die Störung andauern wird.Für die entstehenden Umstände entschuldigen wir uns.
+Aktuell liegt eine Störung bei uns vor, so dass keine Ausfuhranmeldungen an den Zoll weitergeleitet werden und wir auch keine Nachrichten empfangen.Die Ursache wurde lokalisiert, sehr wahrscheinlich haben die Unwetter gestern unsere Leitung bei der Telekom beschädigt. Zusammen mit der Telekom arbeiten wir mit Hochdruck an der Beseitigung der Störung.Zum jetzigen Zeitpunkt können wir leider noch nicht abschätzen, wie lange die Störung andauern wird.Für die entstehenden Umstände entschuldigen wir uns.
 
 Die Ticket-Nummer für das Notfallverfahren lautet: INC000005825093
 
