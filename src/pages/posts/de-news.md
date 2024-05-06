@@ -7,15 +7,7 @@ author: Anja Füger
 image: ''
 ---
 
-## !!! 03.05.24: 12.50 UhrStörung bei Proteria behoben
-
-Die Verfügbarkeit ist wieder hergestellt!
-
-Aufgrund der Auszeit hat sich ein Nachrichtenstau ergeben, so dass es etwas dauern kann, bis sich der Status bei den Anmeldungen ändert.Sobald der Nachrichtenstau abgebaut ist, läuft der Austausch wieder in der gewohnten Geschwindigkeit.
-
-Für die entstandenen Unannehmlichkeiten bitten wir vielmals um Entschuldigung!
-
-
+## 
 
 12\.04.24:Wir haben ein Software-Update durchgeführt. Informationen dazu finden Sie links unter \"Info\".
 
