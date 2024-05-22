@@ -5,6 +5,22 @@ pubDate: '2023-09-28T13:52:41'
 author: Anja Füger
 ---
 
+22\.05.24: Folgende Updates sind in diesem Software Update enthalten:
+
+* Behoben: Suche mit End-Datum fehlt ein Tag
+
+* Behoben: Eingabe/Suche CUS-Nummer kann zu Crash führen
+
+* Neu: Das Senden von Nachrichten für Vorgänge eines anderen \"Besitzers\"
+
+* Neu: ABD und AV kann aus der Übersicht an einzelne Mailadresse(n) manuell versandt werden
+
+* Neu: Logbuch Archiv (täglich/monatlich) abrufbar,   als pdf
+
+* Neu: Mail-Einstellungen für Vesand von Info-Mails bei Eingang von verschiedenen Zollnachrichten
+
+
+
 11\.04.24: Software Update, folgende Updates wurden eingespielt:
 
 * Möglichkeit zur Erstellung einer monatlichen Anschreibeliste / Monatsbericht
