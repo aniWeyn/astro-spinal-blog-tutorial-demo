@@ -6,8 +6,4 @@ author: Anja Füger
 image: ''
 ---
 
-Es ist die EORI-Nummer des Zollvertreters anzugeben.
-
-Die Art der Stellvertretung ist anhand der folgenden Codes anzumelden:
-
-2 Vertreter - direkte Vertretung 3 Vertreter - indirekte Vertretung
+Es ist die EORI-Nummer des Zollvertreters anzugeben.Der hier eingetragene Beteiligte gilt als direkte Vertretung.
