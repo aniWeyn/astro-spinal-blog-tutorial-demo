@@ -8,9 +8,7 @@ image: ''
 
 Einzutragen sind unter Benutzung des nachstehenden Codes und nach Kenntnis im Zeitpunkt der Erfüllung der Versendungs-/Ausfuhrförmlichkeiten die Angaben, die vermutlich den Gegebenheiten beim Überschreiten der Außengrenze der Union entsprechen.
 
-0 - Nicht in Containern beförderte Waren
-
-1 - In Containern beförderte Waren
+0 - Nicht in Containern beförderte Waren1 - In Containern beförderte Waren
 
 Die Angabe entfällt bei Beförderungen im Postverkehr, durch fest installierte Transporteinrichtungen (z. B. Rohrleitungen) oder bei eigenem Antrieb. In Zweifelsfällen ist der Code 0 einzutragen.
 
