@@ -7,9 +7,11 @@ author: Anja Füger
 image: ''
 ---
 
-12\.04.24:Wir haben ein Software-Update durchgeführt. Informationen dazu finden Sie links unter \"Info\".
+## 10.06.24: Automatische E-Mail-Benachrichtigungen
 
-#### Neuigkeiten zum Modul SLP sind in der Rubrik \"Infos\" (Button links im Menü) zu finden.
+Mit dem letzten Update am 22.05. gibt es die Möglichkeit, E-Mail-Benachrichtigungen einzustellen, z.B. für eine Nachrichten zur Wiedervorlage, Kontrallmaßnahme u.a.Die individuelle Einstellung kann über die allgemeinen Einstellungen rechts oben bei \"Name\" vorgenommen werden.Weitere Infos zum letzten Update erhalten Sie im Menü links über \"Info\".
+
+## Neuigkeiten zum Modul SLP sind in der Rubrik \"Infos\" (Button links im Menü) zu finden.
 
 #### 
 
