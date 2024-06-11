@@ -7,4 +7,6 @@ author: Anja Füger
 image: ''
 ---
 
-Es ist der relevante zusätzliche Verfahrenscode anzugeben. Sofern keiner der Codes zutreffend ist, ist auch keine Angabe erforderlich.
+Es ist der relevante zusätzliche Verfahrenscode anzugeben. Die Liste der Codes ist unterteilt in aktive Veredelung, passive Veredelung, Zollbefreiungen, vorübergehende Verwendung, landwirtschaftliche Erzeugnisse und sonstige.
+
+Sofern keiner der Codes zutreffend ist, ist auch keine Angabe erforderlich.
