@@ -11,6 +11,8 @@ image: ''
 
 
 
+
+
 Als Versender ist die Person anzugeben, die nach Maßgabe des Beförderungsvertrages versendet. D.h. der Ort, an dem sich die Ware befindet und der Versand beginnt.Diese Angabe ist nur dann **NICHT** erforderlich, wenn die Ausfuhranmeldung angemeldet wurde mit:„0“ – Ausfuhranmeldung enthält nicht die sicherheitsrelevanten Daten
 
 Das bedeutet im Umkehrschluss, dass in den meisten Fällen die Ausfuhranmeldung mit sicherheitsrelevantenen Daten (Feld Sicherheit mit \"2\") anzugeben ist.
