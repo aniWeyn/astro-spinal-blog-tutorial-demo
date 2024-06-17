@@ -23,4 +23,4 @@ Vereinfachte Ausfuhranmeldung = unvollständige Ausfuhranmeldung; innerhalb von 
 
 10000000 – Rückwirkende Ausfuhranmeldung - es wurde keine Ausfuhranmeldung erstellt
 
-11000000 – Nachträgliche Anmeldung bei vorheriger unrichtiger Anmeldung -Korrektur einer bestehenden Ausfuhranmeldung
+11000000 – Nachträgliche Anmeldung bei vorheriger unrichtiger Anmeldung -Korrektur einer bestehenden Ausfuhranmeldunge
