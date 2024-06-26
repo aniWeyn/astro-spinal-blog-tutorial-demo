@@ -7,7 +7,7 @@ author: Anja Füger
 image: ''
 ---
 
-***!!! Wartungsarbeiten der Zollverwaltung am Samstag, 29.06.24 von 14-24 Uhr !!!***
+#### ***!!! Wartungsarbeiten der Zollverwaltung am Samstag, 29.06.24 von 14-24 Uhr !!!***
 
 Die Zollverwaltung führt zum o.g. Zeitraum Wartungsarbeiten durch, so dass der Nachrichtenaustausch nicht möglich ist:
 
