@@ -6,6 +6,6 @@ author: Anja Füger
 image: ''
 ---
 
-Es ist stets das Land anzugeben, in dem die Waren gebraucht oder verbraucht, bearbeitet oder verarbeitet werden sollen. In den übrigen Fällen gilt als Bestimmungsland das letzte bekannte Land, in das die Waren verbracht werden sollen.
+Ess ist stets das Land anzugeben, in dem die Waren gebraucht oder verbraucht, bearbeitet oder verarbeitet werden sollen. In den übrigen Fällen gilt als Bestimmungsland das letzte bekannte Land, in das die Waren verbracht werden sollen.
 
-Wird z. B. eine zur Ausfuhr/Durchfuhr bestimmte Ware zunächst im Unionsversandverfahren in einen anderen Mitgliedstaat befördert, um von dort aus in ein Drittland verbracht zu werden, ist stets das betreffende Drittland anzumelden.
+Wird z. B. eine zur Ausfuhr/Durchfuhr bestimmte Ware zunächst im Unionsversandverfahren in einen anderen Mitgliedstaat befördert, um von dort aus in ein Drittland verbracht zu werden, ist stets das betreffende Drittland anzumelden..
