@@ -7,11 +7,11 @@ author: Anja Füger
 image: ''
 ---
 
-Ess ist grundsätzlich die EORI-Nummer des Beförderers anzugeben.
+Es ist grundsätzlich die EORI-Nummer des Beförderers anzugeben.
 
 Der Beförderer muss nicht angegeben werden, wenn die Ausfuhranmeldung die sicherheitsrelevanten Daten nicht enthalten muss.
 
-## ***Kann der Beförderer nicht mit EORI-Nummer oder TCUI-Nummer (s.o.) angegeben werden, kann das Datenfeld leer sein, es gilt somit der Ausführer als Beförderer.*\{::}*Technisch ist der Beförderer ein optionales Datenfeld, so dass die Ausfuhranmeldung auch dann angenommen wird, wenn er nicht angegeben wurde.***
+## ***Kann der Beförderer nicht mit EORI-Nummer oder TCUI-Nummer (s.o.) angegeben werden, kann das Datenfeld leer sein, es gilt somit der Ausführer als Beförderer.* *Technisch ist der Beförderer ein optionales Datenfeld, so dass die Ausfuhranmeldung auch dann angenommen wird, wenn er nicht angegeben wurde.***
 
 Wird das Feld nicht gefüllt gilt der Anmelder als Beförderer.
 
