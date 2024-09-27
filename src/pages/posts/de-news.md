@@ -7,7 +7,7 @@ author: Anja Füger
 image: ''
 ---
 
-### **!*!! Dringende Wartungsarbeiten der Zollverwaltung am Samstag, 28.09.24 von 14-24 Uhr !!!***
+### ***!!!Dringende Wartungsarbeiten der Zollverwaltung am Samstag, 28.09.24, 14-24 Uhr!!!***
 
 Im o.g. Zeitraum führt die Zollverwaltung Wartungsarbeiten durch, während dieser Zeit findet kein Nachrichtenverkehr statt.
 
