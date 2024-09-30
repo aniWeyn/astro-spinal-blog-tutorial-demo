@@ -5,6 +5,12 @@ pubDate: '2023-09-28T13:52:41'
 author: Anja Füger
 ---
 
+30\.09.2024: **Neue Preise zum 01. Januar 2025Sehr geehrte Damen und Herren,**
+
+fast 2 Jahre konnten wir unsere Preise stabil halten. Aufgrund der allgemeinen Preissteigerung, gestiegener IT-Anforderungen und damit einhergehenden gestiegenen Kosten müssen wir unsere Preise leider mit Wirkung zum 01.01.2025 wie folgt ändern:**AES-Maxi**: Monatsgebühr: 72,60 €zuzügl. mengengestaffelter Preise:1. bis 799. Anmeldung p. a.€ 1,14800. bis 1999. Anmeldung p.a. € 0,722000. bis 3999. Anmeldung p.a. € 0,43ab der 4000. Anmeldung p.a.  € 0,15**AES-Mini**: Paket (50 Anmeldungen): € 337,-Zusätzlicher Nutzer: € 12,30 p. MonatSchnittstelle:  € 25,75 p. MonatAuf eine weitere gute Zusammenarbeit.
+
+
+
 22\.05.24: Folgende Updates sind in diesem Software Update enthalten:
 
 * Behoben: Suche mit End-Datum fehlt ein Tag
