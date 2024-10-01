@@ -7,21 +7,9 @@ author: Anja Füger
 image: ''
 ---
 
-## 01.10.25, 11.30 Uhr:!!! Störung bei Proteria !!!
+## *01.10.25, 12.50 Uhr:BEHOBEN !!! Störung bei Proteria !!!*
 
-Es liegt eine Störung bei uns vor. Derzeit können wir leider noch nicht abschätzen, wann diese behoben sein wird.  Unsere Technik arbeitet mit Hochdruck daran. 
-
-Die Ticket-Nummer für das Notfallverfahren lautet: INC000006192927
-
-Wenn eine Anmeldung über Proteria nicht möglich ist, haben Sie folgende Alternativen:
-
-* Anmeldung im sog. Notfallverfahren. Sie können die Anmeldung auf Papier abgeben, dazu müssen Sie die Vordrucke 033025 und ggfs. 033026 verwenden:[https://www.zoll.de/SiteGlobals/Forms/Suche/FormulareMerkblaetter\_Formular.html;jsessionid=E9BBABAA7B062530FD0C63716BBAF5FF.internet671?nn=307304Die](https://www.zoll.de/SiteGlobals/Forms/Suche/FormulareMerkblaetter_Formular.html;jsessionid=E9BBABAA7B062530FD0C63716BBAF5FF.internet671?nn=307304%EF%BF%BC%EF%BF%BCDie "https://www.zoll.de/SiteGlobals/Forms/Suche/FormulareMerkblaetter_Formular.html;jsessionid=E9BBABAA7B062530FD0C63716BBAF5FF.internet671?nn=307304￼￼Die") Ticket-Nummer INC000006192927 ist auf dem Formular einzutragen.Es muss ein Ausdruck erfolgen, der von Ihrem Zollamt abgestempelt werden muss!
-
-* Elektronische Anmeldung über die IAA-Plus. Dies ist die kostenlose Software, die die Zollverwaltung zur Verfügung stellt. Sie benötigen dafür ein Elster-Zertifikat
-
-* Dienstleister, der die Ausfuhranmeldung für Sie erstellt.
-
-
+Die Störung ist behoben.Für die entstandenen Umstände entschuldigen wir uns!
 
 
 
