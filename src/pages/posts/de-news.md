@@ -7,6 +7,18 @@ author: Anja Füger
 image: ''
 ---
 
+## 01.10.25, 10.20 Uhr:!!! Störung bei Proteria !!!
+
+Es liegt eine Störung bei uns vor. Derzeit können wir leider noch nicht abschätzen, wann diese behoben sein wird.  Unsere Technik arbeitet mit Hochdruck daran. 
+
+Wir informieren Sie, sobald die Software wieder voll funktionsfähig ist.
+
+ Für die entstandenen Umstände bitten wir um Entschuldigung.
+
+
+
+
+
 ## 30.09.24:Preisänderung zum 01. Januar 2025
 
 Weitere Informationen dazu finden Sie unter \"Info\" im Menü rechts.
