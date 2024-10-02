@@ -7,12 +7,6 @@ author: Anja Füger
 image: ''
 ---
 
-## *01.10.25, 12.50 Uhr:BEHOBEN !!! Störung bei Proteria !!!*
-
-Die Störung ist behoben.Für die entstandenen Umstände entschuldigen wir uns!
-
-
-
 ## 30.09.24:Preisänderung zum 01. Januar 2025
 
 Weitere Informationen dazu finden Sie unter \"Info\" im Menü rechts.
