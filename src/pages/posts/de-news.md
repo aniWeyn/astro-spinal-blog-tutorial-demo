@@ -11,6 +11,8 @@ image: ''
 
 
 
+
+
 ## 30.09.24:Preisänderung zum 01. Januar 2025
 
 Weitere Informationen dazu finden Sie unter \"Info\" im Menü rechts.
