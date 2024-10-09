@@ -7,7 +7,7 @@ author: Anja Füger
 image: ''
 ---
 
-###  <strong><em>Neuer Termin für Live Webinar - Grundlagen der Exportabwicklung und Exportkontrolle05. und 06. November, jeweils 13.30 - 16 UhrWeitere Informationen und Anmeldung finden Sie auf unserer </em></strong>[***Homepage***](https://www.proteria.de/seminar "https://www.proteria.de/seminar") 
+###  <strong><em>Neuer Termin für Live Webinar - Grundlagen der Exportabwicklung und Exportkontrolle 05. und 06. November, jeweils 13.30 - 16 UhrWeitere Informationen und Anmeldung finden Sie auf unserer </em></strong>[***Homepage***](https://www.proteria.de/seminar "https://www.proteria.de/seminar") 
 
 
 
