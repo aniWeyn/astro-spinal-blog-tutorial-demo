@@ -7,7 +7,13 @@ author: Anja Füger
 image: ''
 ---
 
-###  <strong><em>Neuer Termin für Live Webinar - Grundlagen der Exportabwicklung und Exportkontrolle 05. und 06. November, jeweils 13.30 - 16 UhrWeitere Informationen und Anmeldung finden Sie auf unserer </em></strong>[***Homepage***](https://www.proteria.de/seminar "https://www.proteria.de/seminar") 
+### !!! Wartungsarbeiten der Zollverwaltung am 16.10.24, 7.00-8.30 Uhr
+
+### aufgrund der nachfolgend genannten Wartungsarbeiten ist der Nachrichtenverkehr im IT- Verfahren ATLAS Ausfuhr nicht möglich.Beginn Datum - Zeit:      16.10.2024  07:00 Uhr\*Ende Datum - Zeit:         16.10.2024  08:30 UhrVerfahren:                       ATLAS AusfuhrMasterticket:                  INC000006213905\* Bitte beachten Sie, dass die Bearbeitung von besonders großen Teilnehmernachrichten (viele Positionen, viele Unterlagen, viele Packstücke, viele Beendigungsanteile etc.)bereits 1h vor Beginn der Wartungsarbeiten deaktiviert wird. Somit ist mit längeren Wartezeiten bei den Antwortnachrichten zu rechnen.
+
+
+
+###  <strong><em>Neuer Termin für Live Webinar - Grundlagen der Exportabwicklung und Exportkontrolle05. und 06. November, jeweils 13.30 - 16 UhrWeitere Informationen und Anmeldung finden Sie auf unserer </em></strong>[***Homepage***](https://www.proteria.de/seminar "https://www.proteria.de/seminar") 
 
 
 
