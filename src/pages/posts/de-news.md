@@ -7,13 +7,9 @@ author: Anja Füger
 image: ''
 ---
 
-###  <strong><em>Neuer Termin für Live Webinar - Grundlagen der Exportabwicklung und Exportkontrolle05. und 06. November, jeweils 13.30 - 16 UhrWeitere Informationen und Anmeldung finden Sie auf unserer </em></strong>[***Homepage***](https://www.proteria.de/seminar "https://www.proteria.de/seminar") 
+30\.09.24:
 
-
-
-
-
-## 30.09.24:Preisänderung zum 01. Januar 2025
+## Preisänderung zum 01. Januar 2025
 
 Weitere Informationen dazu finden Sie unter \"Info\" im Menü rechts.
 
