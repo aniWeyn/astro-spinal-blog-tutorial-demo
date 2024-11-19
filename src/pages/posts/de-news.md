@@ -7,6 +7,12 @@ author: Anja Füger
 image: ''
 ---
 
+## **!! Wartungsarbeiten der Zollverwaltung am Samstag, den 23.11.24, 12-ca. 24 Uhr !!**
+
+Beginn Datum - Zeit:      23.11.2024   12:00 Uhr\*Ende Datum - Zeit:         23.11.2024   24:00 UhrMasterticket:                  INC000006296609 \* Bitte beachten Sie, dass die Bearbeitung von besonders großen Teilnehmernachrichten (viele Positionen, viele Unterlagen, viele Packstücke, viele Beendigungsanteile etc.)bereits 1h vor Beginn der Wartungsarbeiten deaktiviert wird. Somit ist mit längeren Wartezeiten bei den Antwortnachrichten zu rechnen.
+
+
+
 30\.09.24:
 
 ## Preisänderung zum 01. Januar 2025
