@@ -7,6 +7,12 @@ author: Anja Füger
 image: ''
 ---
 
+### **26.11.24:Änderung der Ausgabeansicht des ABDs.**
+
+### **Die Zollverwaltung hat eine Umstellung vorgenommen und das Layout des ABDs geändert.**
+
+
+
 30\.09.24:
 
 ## Preisänderung zum 01. Januar 2025
