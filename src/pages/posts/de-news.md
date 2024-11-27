@@ -7,9 +7,13 @@ author: Anja Füger
 image: ''
 ---
 
-### **26.11.24:Änderung der Ausgabeansicht des ABDs.**
+### **26.11.24:*Änderungen in der Ausgabeansicht Ausfuhrbegleitdokument und im Ausgangsvermerk***
 
-### **Die Zollverwaltung hat eine Umstellung vorgenommen und das Layout des ABDs geändert.**
+Das Ausfuhrbegleitdokument (ABD) und der Ausgangsvermerk erhalten ab dem 23. November 2024 ein leicht verändertes Erscheinungsbild. Die EU-Kommission hat die einheitlichen Druckausgaben (Layouts) für diese Dokumente überarbeitet.
+
+Zwei der wichtigsten Dokumente in Ausfuhrverfahren sind das ABD und der Ausgangsvermerk. Das ABD sollte im Zuge der Umsetzung des Unionszollkodex (UZK) eigentlich zum 01.12.2023 entfallen. Mit der [ATLAS-Info 0526/23 (pdf)](https://www.zoll.de/SharedDocs/Downloads/DE/Links-fuer-Inhaltseiten/Fachthemen/Zoelle/Atlas/2023/info_0526_23.pdf?__blob=publicationFile&amp;v=3 "https://www.zoll.de/SharedDocs/Downloads/DE/Links-fuer-Inhaltseiten/Fachthemen/Zoelle/Atlas/2023/info_0526_23.pdf?__blob=publicationFile&amp;v=3") hatte das ITZBund jedoch bekannt gegeben, dass die EU-Kommission auch nach dem Ende der EU-weiten UZK-Übergangszeit die Verwendung eines papiergestützten Dokuments zur Durchführung des Betriebskontinuitätsverfahrens (ehemals Notfallverfahren) vorsieht. In Deutschland wird das ABD als Druckausgabe auch außerhalb des Betriebskontinuitätsverfahrens, also auch im Normalfall, weiterhin verwendet. Es wird in ATLAS mit der Nachricht “Überlassung zur Ausfuhr” dem Teilnehmer in Form eines pdf-Dokuments übermittelt.
+
+Die EU-Kommission hat nun einheitliche UZK-konforme Druckausgaben (sog. Layouts) zur Umsetzung des Betriebskontinuitätsverfahrens für das ABD und den Ausgangsvermerk erstellt. Dadurch ändern sich die Inhalte dieser Dokumente. Zudem wird das Ausfuhrbegleitdokument umbenannt in Betriebskontinuität-Ausfuhrbegleitdokument (BK-ABD, engl. BC-EAD).
 
 
 
