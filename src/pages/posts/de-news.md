@@ -7,7 +7,9 @@ author: Anja Füger
 image: ''
 ---
 
-## 05.12.24: 13.30 Uhr
+## BEENDET: 
+
+## 05.12.24 13.30 Uhr
 
 ## !! Meldung der Zollverwaltung !!
 
