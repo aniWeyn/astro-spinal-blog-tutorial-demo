@@ -7,6 +7,10 @@ author: Anja Füger
 image: ''
 ---
 
+## !!! Meldung der Zollverwaltung: dringende Wartungsarbeiten am Dienstag, 10.12.24, 7-8.30 Uhr !!!
+
+Aufgrund der nachfolgend genannten Wartungsarbeiten ist der Nachrichtenverkehr im IT- Verfahren ATLAS Ausfuhr nicht möglich.Typ:                                   WartungsarbeitenLand:                                 DeutschlandBeginn Datum - Zeit:      10.12.2024  07:00 Uhr\* Ende Datum - Zeit:         10.12.2024  08:30 UhrVerfahren:                       ATLAS AusfuhrMasterticket:                  INC000006344603Dienststellen:                 alle\* Bitte beachten Sie, dass die Bearbeitung von besonders großen Teilnehmernachrichten (viele Positionen, viele Unterlagen, viele Packstücke, viele Beendigungsanteile etc.)bereits 1h vor Beginn der Wartungsarbeiten deaktiviert wird. Somit ist mit längeren Wartezeiten bei den Antwortnachrichten zu rechnen. Wir bitte um Ihr Verständnis.
+
 ### **26.11.24:*Änderungen in der Ausgabeansicht Ausfuhrbegleitdokument und im Ausgangsvermerk***
 
 Das Ausfuhrbegleitdokument (ABD) und der Ausgangsvermerk erhalten ab dem 23. November 2024 ein leicht verändertes Erscheinungsbild. Die EU-Kommission hat die einheitlichen Druckausgaben (Layouts) für diese Dokumente überarbeitet.
