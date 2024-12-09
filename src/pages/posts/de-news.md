@@ -7,10 +7,6 @@ author: Anja Füger
 image: ''
 ---
 
-## STÖRUNG BEENDET:09.12.24, 13.45 Uhr: Meldung der Zollverwaltung
-
-## Aktuell kommt es zu einer Störung im Nachrichtenverkehr ATLAS Ausfuhr.An der Problembehebung wird mit Hochdruck gearbeitet.
-
 ## !!! Meldung der Zollverwaltung: dringende Wartungsarbeiten am Dienstag, 10.12.24, 7-8.30 Uhr !!!
 
 Aufgrund der nachfolgend genannten Wartungsarbeiten ist der Nachrichtenverkehr im IT- Verfahren ATLAS Ausfuhr nicht möglich.Typ:                                   WartungsarbeitenLand:                                 DeutschlandBeginn Datum - Zeit:      10.12.2024  07:00 Uhr\* Ende Datum - Zeit:         10.12.2024  08:30 UhrVerfahren:                       ATLAS AusfuhrMasterticket:                  INC000006344603Dienststellen:                 alle\* Bitte beachten Sie, dass die Bearbeitung von besonders großen Teilnehmernachrichten (viele Positionen, viele Unterlagen, viele Packstücke, viele Beendigungsanteile etc.)bereits 1h vor Beginn der Wartungsarbeiten deaktiviert wird. Somit ist mit längeren Wartezeiten bei den Antwortnachrichten zu rechnen. Wir bitte um Ihr Verständnis.
