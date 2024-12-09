@@ -7,11 +7,9 @@ author: Anja Füger
 image: ''
 ---
 
-## !!! 09.12.24, 13.45 Uhr: Meldung der Zollverwaltung
+## STÖRUNG BEENDET:09.12.24, 13.45 Uhr: Meldung der Zollverwaltung
 
-## Aktuell kommt es zu einer Störung im Nachrichtenverkehr ATLAS Ausfuhr.An der Problembehebung wird mit Hochdruck gearbeitet.Die Masterticketnummer lautet: INC000006358785Bitte entschuldigen Sie die Unannehmlichkeiten.
-
-
+## Aktuell kommt es zu einer Störung im Nachrichtenverkehr ATLAS Ausfuhr.An der Problembehebung wird mit Hochdruck gearbeitet.
 
 ## !!! Meldung der Zollverwaltung: dringende Wartungsarbeiten am Dienstag, 10.12.24, 7-8.30 Uhr !!!
 
