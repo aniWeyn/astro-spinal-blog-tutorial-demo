@@ -17,6 +17,12 @@ image: ''
 
 
 
+
+
+
+
+
+
 ### 26.11.2024:***Änderung der Ausgabeansicht von Ausfuhrbegleitdokument und Ausgangsvermerk*** 
 
 Das Ausfuhrbegleitdokument (ABD) und der Ausgangsvermerk erhalten ab dem 23. November 2024 ein leicht verändertes Erscheinungsbild. Die EU-Kommission hat die einheitlichen Druckausgaben (Layouts) für diese Dokumente überarbeitet.
