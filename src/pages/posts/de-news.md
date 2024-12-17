@@ -7,9 +7,9 @@ author: Anja Füger
 image: ''
 ---
 
-![](../../images/posts/Weihnachtsmotiv1-1b2966.jpg)**Für Ihr Vertrauen und Ihre Treue in diesem Jahr sagen wir Danke.**
+##  ![](../../images/posts/Weihnachtsmotiv1-1b2966.jpg)**Für Ihr Vertrauen und Ihre Treue in diesem Jahr sagen wir Danke.** 
 
-**Wir wünschen Ihnen ein schönes Weihnachtsfest und einen guten Start ins neue Jahr.Genießen Sie die freien Tage und tanken Sie Kraft für ein geschäftlich sowie privat aufregendes und erfolgreiches Jahr 2025.**
+## **Wir wünschen Ihnen ein schönes Weihnachtsfest und einen guten Start ins neue Jahr. Genießen Sie die freien Tage und tanken Sie Kraft für ein geschäftlich sowie privat aufregendes und erfolgreiches Jahr 2025.**
 
 
 
